@@ -8,6 +8,9 @@ on:
         required: false
         default: 'all'
 
+permissions:
+  contents: write
+  
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -15,6 +18,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
         
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -31,18 +36,14 @@ jobs:
         run: |
           python generate_content.py
           
-      - name: Commit new content
+      - name: Commit and push new content
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add *.qmd
-          git diff --staged --quiet || git commit -m "🤖 Add AI-generated research content"
-          
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Trigger site rebuild
-        run: |
-          echo "New content added. Site will rebuild automatically."
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Add AI-generated research content"
+            git push
+          fi
