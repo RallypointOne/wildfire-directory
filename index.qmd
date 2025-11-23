@@ -8,10 +8,6 @@ page-layout: full
 
 This comprehensive directory provides detailed documentation on **30+ wildfire models and systems** identified in the NSF ASCEND Engine wildfire modeling assessment. Content is AI-curated and continuously updated to reflect the latest developments in wildfire research.
 
-## 📚 Essential Topics - New Section to Add to index.qmd
-
-Add this section to your index.qmd file, after the model categories:
-
 ---
 
 ## 📚 Essential Wildfire Topics
