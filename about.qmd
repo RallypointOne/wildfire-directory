@@ -1,0 +1,59 @@
+---
+title: "About This Directory"
+---
+
+## Purpose
+
+The Wildfire Simulation & Modeling Research Directory is a comprehensive resource created to support researchers, practitioners, and stakeholders in the wildfire community. This directory is part of Rallypoint One's contribution to the NSF ASCEND Engine initiative focused on wildfire research.
+
+## Automated Content Management
+
+This directory leverages artificial intelligence to:
+
+- **Research** the latest developments in wildfire modeling
+- **Organize** information into intuitive categories
+- **Update** content automatically as new research emerges
+- **Verify** links and references for accuracy
+- **Generate** summaries of complex technical papers
+
+## Target Audience
+
+- **Researchers** seeking current literature and tools
+- **Fire Managers** evaluating operational models
+- **Policy Makers** understanding technical capabilities
+- **Funding Agencies** identifying research gaps
+- **Technology Companies** exploring partnerships
+
+## How to Use This Directory
+
+1. **Browse by Category** - Use the navigation menu to explore topics
+2. **Search** - Use Ctrl+F to search within pages
+3. **Check Updates** - New content is added daily
+4. **Contact Us** - Suggest additions or corrections
+
+## Partnership Opportunities
+
+Rallypoint One seeks partnerships in:
+- Federal agency contracts (USFS, NOAA, NASA)
+- State and local government initiatives
+- Public utility wildfire mitigation programs
+- Insurance industry risk assessment
+- Research collaborations
+
+## Contact
+
+**Rallypoint One**  
+Website: [rallypoint1.com](https://rallypoint1.com)  
+Email: [Contact Form](https://rallypoint1.com/contact)
+
+## Acknowledgments
+
+This directory is made possible through:
+- NSF ASCEND Engine collaboration
+- Open source research community
+- AI-powered content curation
+- Quarto publishing system
+
+---
+
+*Building resilient communities through advanced wildfire research and technology.*
