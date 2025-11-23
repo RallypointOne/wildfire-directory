@@ -28,7 +28,7 @@ jobs:
           
       - name: Install OpenAI library
         run: |
-          pip install openai==0.28.0
+          pip install openai>=1.0.0
           
       - name: Generate content
         env:
