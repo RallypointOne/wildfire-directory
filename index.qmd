@@ -8,6 +8,40 @@ page-layout: full
 
 This comprehensive directory provides detailed documentation on **30+ wildfire models and systems** identified in the NSF ASCEND Engine wildfire modeling assessment. Content is AI-curated and continuously updated to reflect the latest developments in wildfire research.
 
+## 📚 Essential Topics - New Section to Add to index.qmd
+
+Add this section to your index.qmd file, after the model categories:
+
+---
+
+## 📚 Essential Wildfire Topics
+
+Comprehensive guides covering critical aspects of wildfire science and management:
+
+### 🔥 Fire Danger and Weather
+- **[Fire Weather Indices](fire-weather-indices.qmd)** - FWI, FFDI, and global fire danger systems
+- **[Climate Change Fire Projections](climate-fire-projections.qmd)** - Future fire regime modeling
+
+### 🛰️ Detection and Monitoring  
+- **[Satellite Fire Detection Systems](satellite-fire-detection.qmd)** - MODIS, VIIRS, and emerging platforms
+- **[Burn Severity Mapping](burn-severity-mapping.qmd)** - dNBR, CBI, and assessment methods
+
+### 🏘️ Risk Assessment
+- **[WUI Modeling](wui-modeling.qmd)** - Wildland-Urban Interface risk and planning
+- **[Insurance Risk Assessment Tools](insurance-risk-tools.qmd)** - Catastrophe modeling for wildfire
+- **[Post-Fire Debris Flow Prediction](debris-flow-prediction.qmd)** - Rainfall thresholds and hazard assessment
+
+### 🌍 Environmental and Cultural
+- **[Carbon Emissions Modeling](carbon-emissions-modeling.qmd)** - Wildfire emissions and climate feedback
+- **[Indigenous Fire Management](indigenous-fire-management.qmd)** - Traditional burning and TEK integration
+
+### 📖 Complete System Guides
+- **[FARSITE Complete Guide](farsite-system.qmd)** - Advanced FARSITE implementation and calibration
+
+[View All Essential Topics →](essential-topics-index.qmd)
+
+---
+
 ## 🔥 Featured Model Categories
 
 ### [Operational Fire Spread Models](operational-fire-spread-models-index.qmd)
