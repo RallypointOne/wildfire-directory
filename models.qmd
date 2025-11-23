@@ -1,0 +1,90 @@
+---
+title: "Fire Behavior Models"
+description: "Overview of wildfire simulation models and tools"
+date: today
+categories: [models, simulation]
+---
+
+## Overview
+
+Fire behavior models are essential tools for understanding and predicting wildfire spread. This page catalogs the major modeling approaches and software tools used in wildfire research and operations.
+
+## Categories of Models
+
+### Physical Models
+Models based on fundamental physics of combustion and heat transfer:
+
+- **FIRETEC** - Los Alamos physics-based model
+- **WFDS (Wildland-Urban Interface Fire Dynamics Simulator)** - NIST model
+- **FireFOAM** - OpenFOAM-based solver
+
+### Semi-Empirical Models
+Models combining physical principles with empirical observations:
+
+- **FARSITE** - Fire Area Simulator
+- **FlamMap** - Fire behavior mapping and analysis
+- **BehavePlus** - Fire behavior prediction system
+- **Canadian Forest Fire Behavior Prediction System**
+
+### Statistical/ML Models
+Data-driven approaches using machine learning:
+
+- **Random Forest fire spread prediction**
+- **Neural network-based models**
+- **Ensemble prediction systems**
+
+## Operational Systems
+
+### WRF-Fire
+Coupled weather-wildland fire model combining WRF atmospheric model with fire spread model.
+
+**Key Features:**
+- Two-way coupling between fire and atmosphere
+- High-resolution fire behavior
+- Smoke transport and dispersion
+
+**Applications:**
+- Operational forecasting
+- Research studies
+- Climate impact assessment
+
+### FARSITE
+Fire Area Simulator for wildland fire growth simulation.
+
+**Key Features:**
+- Spatial and temporal fire behavior
+- Integration with GIS data
+- Multiple fuel models
+
+**Use Cases:**
+- Prescribed fire planning
+- Wildfire suppression tactics
+- Risk assessment
+
+## Data Requirements
+
+Most models require:
+- Digital elevation models (DEM)
+- Fuel type maps
+- Fuel moisture content
+- Weather data (wind, temperature, humidity)
+- Ignition sources
+
+## Model Selection Guide
+
+| Model | Best For | Complexity | Computational Cost |
+|-------|----------|------------|-------------------|
+| BehavePlus | Point predictions | Low | Minutes |
+| FARSITE | Fire perimeter evolution | Medium | Hours |
+| WRF-Fire | Weather-coupled simulations | High | Days |
+| FIRETEC | Research studies | Very High | Weeks |
+
+## Additional Resources
+
+- [USFS Fire Modeling Institute](https://www.firelab.org)
+- [Joint Fire Science Program](https://www.firescience.gov)
+- [International Association of Wildland Fire](https://www.iawfonline.org)
+
+---
+
+*This page will be automatically updated with new models and research findings.*
