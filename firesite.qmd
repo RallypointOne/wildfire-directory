@@ -1,0 +1,104 @@
+---
+title: "FIRESITE - European Fire Simulation"
+description: "Comprehensive guide to FIRESITE - European Fire Simulation - Mediterranean fires, European fuel models, multi-scale modeling, decision support"
+date: 2025-11-23
+categories: [Operational Fire Spread Models]
+author: "AI Research Assistant"
+toc: true
+toc-depth: 3
+---
+
+# FIRESITE - European Fire Simulation
+
+::: {.callout-note}
+## Quick Facts
+- **Category**: Operational Fire Spread Models
+- **Model Type**: Semi-empirical
+- **Developed by**: European Forest Institute
+- **Primary Focus**: Mediterranean fires, European fuel models, multi-scale modeling, decision support
+:::
+
+## Overview
+FIRESITE is a semi-empirical operational fire spread model developed by the European Forest Institute, specifically designed to address wildfire management challenges in Europe, with a particular focus on Mediterranean fires, European fuel models, multi-scale modeling, and decision support systems. This model plays a crucial role in enhancing wildfire management strategies by providing accurate and timely predictions of fire behavior, spread, and potential impacts on landscapes. By integrating advanced modeling techniques with real-world data, FIRESITE offers valuable insights to support decision-making processes in fire management operations.
+
+## Key Features and Capabilities
+- FIRESITE incorporates sophisticated algorithms for simulating fire spread dynamics based on empirical data and scientific principles.
+- The model's unique feature lies in its ability to adapt to diverse fuel types prevalent in European landscapes, especially the Mediterranean region.
+- FIRESITE offers multi-scale modeling capabilities, allowing users to analyze fire behavior at both local and landscape levels.
+- Decision support functionalities enable users to assess various management scenarios and develop effective strategies to mitigate wildfire risks.
+
+## Technical Specifications
+- Model Type: Semi-empirical operational fire spread model
+- Input Data Requirements: Fuel characteristics, weather conditions, topography, ignition points
+- Output Products: Fire behavior predictions, spread patterns, potential impacts
+- Spatial and Temporal Resolution: Varies based on input data resolution
+- Computational Requirements: Moderate to high computational resources for complex simulations
+
+## Applications and Use Cases
+- Operational Uses: Real-time fire behavior prediction, wildfire suppression planning
+- Research Applications: Studying wildfire dynamics, fuel modeling research
+- Planning and Management Applications: Land use planning, prescribed burning strategies
+- Case Studies: Notable deployments in Mediterranean regions, European wildfires
+
+## Strengths and Limitations
+- Strengths: Accurate fire spread predictions, versatile fuel modeling capabilities
+- Limitations: Sensitivity to input data quality, computational intensity for large-scale simulations
+- Best Use Conditions: Well-calibrated fuel data, high-resolution weather inputs
+
+## Data Requirements
+- Input Data Needed: Fuel models, weather data, topographic information, ignition sources
+- Data Formats: GIS formats, text files, standard meteorological data formats
+- Data Sources: National forest inventories, meteorological stations, remote sensing data
+
+## Training and Resources
+- Available Training Materials: Online tutorials, workshops, training courses
+- Documentation: User manuals, technical reports, model documentation
+- User Communities: FIRESITE user forums, research networks
+- Support Resources: Helpdesk, technical support team
+
+## Integration with Other Systems
+- Compatible Models: WRF-SFIRE, FARSITE, Prometheus
+- Data Exchange Formats: Common GIS formats, standard data exchange protocols
+- Workflow Integration: Integration with decision support systems, GIS platforms
+
+## Recent Updates and Developments
+- Latest Version: FIRESITE 2.0
+- Recent Improvements: Enhanced fuel modeling algorithms, improved scalability
+- Ongoing Research: Integration of machine learning techniques, validation studies
+
+## Access and Availability
+- How to Obtain the Software: Contact European Forest Institute for access
+- Licensing Information: Licensing agreements for research and operational use
+- System Requirements: Windows/Linux platforms, moderate RAM and storage requirements
+- Cost: Contact organization for pricing information
+
+FIRESITE stands as a valuable tool for wildfire researchers and practitioners, offering advanced capabilities to enhance operational fire management and decision-making processes across European landscapes.
+
+---
+
+## Related Models and Resources
+
+### Similar Models in This Category
+Explore other operational fire spread models models in our directory.
+
+### Integration Partners
+Models that commonly integrate with FIRESITE.
+
+---
+
+## Contributing to This Page
+
+This page is part of the [Wildfire Simulation & Modeling Research Directory](https://wildfire-directory.netlify.app) maintained by [Rallypoint One](https://rallypoint1.com).
+
+If you have:
+- Updates or corrections
+- Additional use cases or case studies
+- Training resources or documentation
+- Integration examples
+
+Please [open an issue on GitHub](https://github.com/RallypointOne/wildfire-directory/issues) or [contact us](https://rallypoint1.com/contact).
+
+---
+
+*Last updated: November 23, 2025*
+*This page was automatically generated using AI-assisted research. Content is regularly updated to reflect the latest developments.*

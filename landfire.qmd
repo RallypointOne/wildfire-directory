@@ -1,0 +1,108 @@
+---
+title: "LANDFIRE - Landscape Fire and Resource Management"
+description: "Comprehensive guide to LANDFIRE - Landscape Fire and Resource Management - fuel mapping, vegetation data, disturbance tracking, national coverage"
+date: 2025-11-23
+categories: [Fuel and Vegetation Data]
+author: "AI Research Assistant"
+toc: true
+toc-depth: 3
+---
+
+# LANDFIRE - Landscape Fire and Resource Management
+
+::: {.callout-note}
+## Quick Facts
+- **Category**: Fuel and Vegetation Data
+- **Model Type**: Data system
+- **Developed by**: USGS/USFS/DOI
+- **Primary Focus**: fuel mapping, vegetation data, disturbance tracking, national coverage
+:::
+
+# Research Directory: LANDFIRE - Landscape Fire and Resource Management
+
+## Overview
+LANDFIRE, short for Landscape Fire and Resource Management Planning Tools, is a comprehensive data system jointly developed by the U.S. Geological Survey (USGS), U.S. Forest Service (USFS), and the Department of the Interior (DOI). This system focuses on providing detailed fuel and vegetation data for the entire United States, aiding in fuel mapping, vegetation analysis, disturbance tracking, and supporting national-scale fire and resource management efforts. By integrating advanced modeling techniques with high-quality geospatial data, LANDFIRE plays a crucial role in enhancing wildfire management strategies and decision-making processes.
+
+## Key Features and Capabilities
+- Detailed fuel and vegetation mapping across the U.S.
+- Consistent national coverage for seamless integration into operational systems.
+- Disturbance tracking to monitor changes in landscapes over time.
+- Customizable tools for various fire management applications.
+- Utilizes state-of-the-art remote sensing data for accuracy and reliability.
+
+## Technical Specifications
+- Model Type: Data system
+- Approach: Integration of remote sensing, GIS, and modeling techniques
+- Input Data Requirements: Remote sensing imagery, field data, GIS layers
+- Output Products: Fuel models, vegetation maps, disturbance datasets
+- Spatial and Temporal Resolution: 30-meter resolution, periodic updates
+- Computational Requirements: High-performance computing recommended
+
+## Applications and Use Cases
+- Operational Uses: Fire behavior modeling, fuel treatment prioritization, post-fire recovery planning
+- Research Applications: Ecological studies, climate change impact assessments, disturbance analysis
+- Planning and Management Applications: Land management planning, resource allocation, hazard mapping
+- Notable Deployments: Integration into Fire Program Analysis (FPA) system, support for Incident Command Teams
+
+## Strengths and Limitations
+- Strengths: National coverage, high-resolution data, customizable tools
+- Limitations: Limited field validation, data availability for certain regions, computational intensity
+- Best Use Conditions: Large-scale fire management planning, regional risk assessments, long-term monitoring
+
+## Data Requirements
+- Input Data Needed: Remote sensing imagery, field data, geospatial layers
+- Data Formats: GeoTIFF, shapefiles, raster datasets
+- Data Sources: Landsat, MODIS, field surveys, national databases
+
+## Training and Resources
+- Available Training Materials: Online tutorials, webinars, workshops
+- Documentation: User guides, technical reports, data dictionaries
+- User Communities: LANDFIRE user group, forums, conferences
+- Support Resources: Helpdesk support, FAQs, community forums
+
+## Integration with Other Systems
+- Compatible Models and Systems: WFDSS, FlamMap, FireFamily Plus
+- Data Exchange Formats: GeoJSON, NetCDF, XML
+- Workflow Integration: Seamless integration with ArcGIS, QGIS, and other GIS platforms
+
+## Recent Updates and Developments
+- Latest Version Information: LANDFIRE 2019 Remap
+- Recent Improvements: Enhanced fuel models, improved disturbance tracking algorithms
+- Ongoing Research: Integration of LiDAR data, machine learning applications
+
+## Access and Availability
+- How to Obtain the Software: Access via the LANDFIRE website
+- Licensing Information: Free for non-commercial use, licensing required for commercial applications
+- System Requirements: Standard computing environment, high-speed internet for data downloads
+- Cost: Free for non-commercial use, licensing fees for commercial applications
+
+This research directory provides a comprehensive overview of LANDFIRE, highlighting its key features, technical specifications, applications, strengths, limitations, data requirements, training resources, integration capabilities, recent updates, and access information. For wildfire researchers and practitioners, LANDFIRE serves as a valuable tool for improving wildfire management practices and supporting informed decision-making at various spatial scales.
+
+---
+
+## Related Models and Resources
+
+### Similar Models in This Category
+Explore other fuel and vegetation data models in our directory.
+
+### Integration Partners
+Models that commonly integrate with LANDFIRE.
+
+---
+
+## Contributing to This Page
+
+This page is part of the [Wildfire Simulation & Modeling Research Directory](https://wildfire-directory.netlify.app) maintained by [Rallypoint One](https://rallypoint1.com).
+
+If you have:
+- Updates or corrections
+- Additional use cases or case studies
+- Training resources or documentation
+- Integration examples
+
+Please [open an issue on GitHub](https://github.com/RallypointOne/wildfire-directory/issues) or [contact us](https://rallypoint1.com/contact).
+
+---
+
+*Last updated: November 23, 2025*
+*This page was automatically generated using AI-assisted research. Content is regularly updated to reflect the latest developments.*

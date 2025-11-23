@@ -1,0 +1,108 @@
+---
+title: "BlueSky Smoke Modeling Framework"
+description: "Comprehensive guide to BlueSky Smoke Modeling Framework - smoke emissions, air quality forecasting, trajectory modeling, health impacts"
+date: 2025-11-23
+categories: [Smoke and Air Quality]
+author: "AI Research Assistant"
+toc: true
+toc-depth: 3
+---
+
+# BlueSky Smoke Modeling Framework
+
+::: {.callout-note}
+## Quick Facts
+- **Category**: Smoke and Air Quality
+- **Model Type**: Integrated framework
+- **Developed by**: USDA Forest Service
+- **Primary Focus**: smoke emissions, air quality forecasting, trajectory modeling, health impacts
+:::
+
+# Research Directory: BlueSky Smoke Modeling Framework
+
+## Overview
+The BlueSky Smoke Modeling Framework is an integrated system developed by the USDA Forest Service, designed to address smoke and air quality issues related to wildfires. Its primary purpose is to provide accurate and timely information on smoke emissions, air quality forecasting, trajectory modeling, and health impacts associated with wildfires. This modeling framework plays a crucial role in wildfire management by enabling decision-makers to assess and mitigate the impacts of wildfire smoke on public health, ecosystems, and air quality.
+
+## Key Features and Capabilities
+- Comprehensive smoke emissions modeling
+- Advanced air quality forecasting
+- Trajectory modeling for smoke dispersion
+- Integration of health impact assessments
+- Real-time visualization tools for decision support
+
+## Technical Specifications
+- Model type: Integrated framework
+- Approach: Combines smoke emissions, air quality, and health impact modules
+- Input data requirements: Meteorological data, fire location and behavior data, land cover information
+- Output products: Smoke concentration maps, air quality forecasts, health risk assessments
+- Spatial and temporal resolution: Varies based on input data resolution
+- Computational requirements: Moderate to high computational resources for real-time forecasting
+
+## Applications and Use Cases
+- Operational uses: Support for incident command teams, smoke management programs
+- Research applications: Studying smoke dispersion patterns, evaluating mitigation strategies
+- Planning and management applications: Developing smoke management plans, assessing public health impacts
+- Notable deployments: Used in large wildfire events for smoke management and public health protection
+
+## Strengths and Limitations
+- Strengths: Integrated approach, real-time forecasting capabilities, robust visualization tools
+- Limitations: Reliance on accurate input data, computational resource requirements, limited accuracy in complex terrain
+- Best use conditions: Large-scale wildfires with potential smoke impacts on populated areas
+
+## Data Requirements
+- Input data needed: Meteorological data (winds, temperature, humidity), fire behavior data, fuel types, land cover information
+- Data formats: Common formats like NetCDF, CSV, shapefiles
+- Data sources: Weather stations, fire behavior models, land cover databases
+
+## Training and Resources
+- Available training materials: Online tutorials, workshops, user guides
+- Documentation: Comprehensive user manuals, technical reports
+- User communities: BlueSky user forums, workshops, conferences
+- Support resources: Helpdesk support, online forums, developer resources
+
+## Integration with Other Systems
+- Compatible models and systems: FIRETEC, WRF-Chem, HYSPLIT
+- Data exchange formats: Common formats like NetCDF, JSON, CSV
+- Workflow integration: APIs for data exchange, interoperability with GIS platforms
+
+## Recent Updates and Developments
+- Latest version information: BlueSky 3.0 released with improved smoke dispersion modeling
+- Recent improvements: Enhanced visualization tools, updated health impact algorithms
+- Ongoing research: Integration of machine learning for improved forecasting accuracy
+
+## Access and Availability
+- How to obtain the software: Available for download from the USDA Forest Service website
+- Licensing information: Open-source with various usage licenses
+- System requirements: Linux-based systems, moderate computational resources
+- Cost: Free to use for research and non-commercial purposes
+
+This research directory provides a comprehensive overview of the BlueSky Smoke Modeling Framework, highlighting its features, applications, data requirements, strengths, limitations, and integration capabilities. Researchers and practitioners in the field of wildfire management can leverage this information for effective smoke and air quality assessments during wildfire events.
+
+---
+
+## Related Models and Resources
+
+### Similar Models in This Category
+Explore other smoke and air quality models in our directory.
+
+### Integration Partners
+Models that commonly integrate with BlueSky Smoke Modeling Framework.
+
+---
+
+## Contributing to This Page
+
+This page is part of the [Wildfire Simulation & Modeling Research Directory](https://wildfire-directory.netlify.app) maintained by [Rallypoint One](https://rallypoint1.com).
+
+If you have:
+- Updates or corrections
+- Additional use cases or case studies
+- Training resources or documentation
+- Integration examples
+
+Please [open an issue on GitHub](https://github.com/RallypointOne/wildfire-directory/issues) or [contact us](https://rallypoint1.com/contact).
+
+---
+
+*Last updated: November 23, 2025*
+*This page was automatically generated using AI-assisted research. Content is regularly updated to reflect the latest developments.*

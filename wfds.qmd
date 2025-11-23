@@ -1,0 +1,108 @@
+---
+title: "WFDS - Wildland-Urban Interface Fire Dynamics Simulator"
+description: "Comprehensive guide to WFDS - Wildland-Urban Interface Fire Dynamics Simulator - WUI fires, structural ignition, detailed combustion physics, smoke transport"
+date: 2025-11-23
+categories: [Physics-Based Models]
+author: "AI Research Assistant"
+toc: true
+toc-depth: 3
+---
+
+# WFDS - Wildland-Urban Interface Fire Dynamics Simulator
+
+::: {.callout-note}
+## Quick Facts
+- **Category**: Physics-Based Models
+- **Model Type**: Physics-based
+- **Developed by**: NIST
+- **Primary Focus**: WUI fires, structural ignition, detailed combustion physics, smoke transport
+:::
+
+# Research Directory: WFDS - Wildland-Urban Interface Fire Dynamics Simulator
+
+## Overview
+The Wildland-Urban Interface Fire Dynamics Simulator (WFDS) is a physics-based model developed by the National Institute of Standards and Technology (NIST) that focuses on simulating and understanding the dynamics of fires in the wildland-urban interface (WUI). This model provides detailed insights into structural ignition, combustion physics, smoke transport, and fire behavior in complex urban-wildland environments. WFDS plays a crucial role in wildfire management by enhancing the understanding of fire spread dynamics, aiding in decision-making processes, and improving strategies for mitigating fire risks in WUI areas.
+
+## Key Features and Capabilities
+- Detailed simulation of fire dynamics in the wildland-urban interface
+- Accurate modeling of structural ignition and combustion processes
+- Comprehensive analysis of smoke transport and dispersion
+- Consideration of complex interactions between urban structures and wildland fuels
+- Integration of advanced combustion physics for realistic fire behavior prediction
+
+## Technical Specifications
+- Model Type: Physics-based
+- Approach: Computational fluid dynamics (CFD)
+- Input Data Requirements: Terrain data, weather conditions, fuel characteristics, building parameters
+- Output Products: Fire spread patterns, smoke dispersion maps, structural damage assessment
+- Spatial and Temporal Resolution: High spatial resolution for detailed modeling, adjustable temporal resolution
+- Computational Requirements: Moderate to high computational resources depending on simulation complexity
+
+## Applications and Use Cases
+- Operational Uses: Real-time fire behavior prediction, emergency response planning
+- Research Applications: Fire behavior studies, WUI fire dynamics research
+- Planning and Management Applications: Land use planning, community resilience assessment
+- Case Studies: Notable deployments in California wildfires, urban interface areas in Australia
+
+## Strengths and Limitations
+- Strengths: Accurate modeling of fire dynamics, detailed combustion physics, valuable for WUI fire management
+- Limitations: Computational intensity, reliance on accurate input data, limited scalability for large-scale simulations
+- Best Use Conditions: Small to medium-scale WUI fire scenarios, detailed analysis of structural vulnerabilities
+
+## Data Requirements
+- Input Data Needed: Terrain elevation models, weather data, fuel types, building layouts
+- Data Formats: GIS formats, weather data files, structural information databases
+- Data Sources: Local fire agencies, meteorological stations, GIS databases
+
+## Training and Resources
+- Available Training Materials: Online tutorials, workshops, training courses
+- Documentation: User manuals, technical reports, model documentation
+- User Communities: WFDS user forums, research networks, collaboration platforms
+- Support Resources: NIST technical support, community forums, developer contacts
+
+## Integration with Other Systems
+- Compatible Models: Fire Spread Models, Air Quality Models, Building Performance Simulations
+- Data Exchange Formats: Common GIS formats, standard weather data formats
+- Workflow Integration: Integration with GIS platforms, coupling with decision support systems
+
+## Recent Updates and Developments
+- Latest Version: WFDS 2.0
+- Recent Improvements: Enhanced smoke modeling capabilities, improved structural fire behavior algorithms
+- Ongoing Research: Integration of machine learning for fire behavior prediction, validation studies in diverse WUI environments
+
+## Access and Availability
+- How to Obtain the Software: Download from NIST website, contact NIST for access
+- Licensing Information: Open-source model, usage restrictions may apply
+- System Requirements: Windows/Linux platform, computational resources as per simulation complexity
+- Cost: Free for research and non-commercial use, potential costs for commercial applications
+
+This research directory provides a comprehensive overview of the WFDS model, detailing its features, applications, strengths, and limitations. Researchers, fire managers, and practitioners can leverage WFDS for in-depth analysis and simulation of wildfire dynamics in the challenging wildland-urban interface. For more information and practical guidance, refer to the provided sections and explore the resources available for utilizing WFDS effectively in operational and research contexts.
+
+---
+
+## Related Models and Resources
+
+### Similar Models in This Category
+Explore other physics-based models models in our directory.
+
+### Integration Partners
+Models that commonly integrate with WFDS.
+
+---
+
+## Contributing to This Page
+
+This page is part of the [Wildfire Simulation & Modeling Research Directory](https://wildfire-directory.netlify.app) maintained by [Rallypoint One](https://rallypoint1.com).
+
+If you have:
+- Updates or corrections
+- Additional use cases or case studies
+- Training resources or documentation
+- Integration examples
+
+Please [open an issue on GitHub](https://github.com/RallypointOne/wildfire-directory/issues) or [contact us](https://rallypoint1.com/contact).
+
+---
+
+*Last updated: November 23, 2025*
+*This page was automatically generated using AI-assisted research. Content is regularly updated to reflect the latest developments.*

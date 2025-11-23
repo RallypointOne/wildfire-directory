@@ -1,0 +1,43 @@
+---
+title: "Fuel and Vegetation Data"
+description: "Complete listing of fuel and vegetation data for wildfire research and operations"
+date: 2025-11-23
+toc: true
+---
+
+# Fuel and Vegetation Data
+
+This section contains detailed information about 1 fuel and vegetation data used in wildfire research and operations.
+
+## Models in This Category
+
+
+### [LANDFIRE - Landscape Fire and Resource Management](landfire.qmd)
+**Organization**: USGS/USFS/DOI  
+**Type**: Data system  
+**Focus**: fuel mapping, vegetation data, disturbance tracking, national coverage
+
+---
+
+
+## Category Overview
+
+The Fuel and Vegetation Data category includes models and systems that focus on specific aspects of wildfire behavior, management, and analysis. These tools are essential for:
+
+- Operational decision-making
+- Research and development
+- Planning and risk assessment
+- Training and education
+
+## Choosing the Right Model
+
+When selecting a model from this category, consider:
+- Your specific use case and objectives
+- Available data and computational resources
+- Required spatial and temporal resolution
+- Integration with existing workflows
+- Training and support availability
+
+---
+
+*Part of the [Wildfire Research Directory](https://wildfire-directory.netlify.app) by [Rallypoint One](https://rallypoint1.com)*

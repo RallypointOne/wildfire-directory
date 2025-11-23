@@ -1,0 +1,107 @@
+---
+title: "FARSITE - Fire Area Simulator"
+description: "Comprehensive guide to FARSITE - Fire Area Simulator - spatially explicit fire growth simulation, multiple fuel models, weather integration, suppression tactics modeling"
+date: 2025-11-23
+categories: [Operational Fire Spread Models]
+author: "AI Research Assistant"
+toc: true
+toc-depth: 3
+---
+
+# FARSITE - Fire Area Simulator
+
+::: {.callout-note}
+## Quick Facts
+- **Category**: Operational Fire Spread Models
+- **Model Type**: Semi-empirical
+- **Developed by**: USDA Forest Service
+- **Primary Focus**: spatially explicit fire growth simulation, multiple fuel models, weather integration, suppression tactics modeling
+:::
+
+# FARSITE - Fire Area Simulator Research Directory
+
+## Overview
+FARSITE, the Fire Area Simulator, is a semi-empirical operational fire spread model developed by the USDA Forest Service. This spatially explicit fire growth simulation system is designed to assist in predicting the behavior of wildfires under various conditions. Its primary purpose is to provide fire managers and researchers with a tool for understanding and simulating the spread of wildfires, incorporating factors such as fuel models, weather conditions, and suppression tactics. FARSITE plays a crucial role in wildfire management by aiding in decision-making processes related to fire behavior prediction and resource allocation.
+
+## Key Features and Capabilities
+- Spatially explicit fire growth simulation
+- Integration of multiple fuel models for accurate representation of fuel types
+- Weather integration for real-time fire behavior predictions
+- Modeling of suppression tactics to assess their effectiveness
+- Capability to simulate large-scale wildfires with complex behaviors
+
+## Technical Specifications
+- Model Type: Semi-empirical
+- Input Data Requirements: Fuel characteristics, weather data, topography, ignition points
+- Output Products: Fire spread maps, burn probability maps, fire behavior characteristics
+- Spatial and Temporal Resolution: Variable, depending on input data resolution
+- Computational Requirements: Moderate to high computational resources for large-scale simulations
+
+## Applications and Use Cases
+- Operational Uses: Wildfire decision support, fire behavior prediction, resource allocation
+- Research Applications: Fire ecology studies, fire spread modeling research
+- Planning and Management Applications: Wildfire risk assessment, prescribed burning planning
+- Notable Deployments: Used in various wildfire incidents globally, including large-scale wildfires
+
+## Strengths and Limitations
+- Strengths: Accurate fire behavior predictions, integration of multiple fuel models, real-time weather integration
+- Limitations: Sensitivity to input data quality, computational resource requirements
+- Best Use Conditions: Large-scale wildfires, complex fire behavior scenarios
+
+## Data Requirements
+- Input Data Needed: Fuel models, weather data, topography maps, ignition locations
+- Data Formats: GIS-compatible formats (e.g., shapefiles, raster datasets)
+- Data Sources: Remote sensing platforms, weather stations, field surveys
+
+## Training and Resources
+- Available Training Materials: Online tutorials, workshops, user manuals
+- Documentation: Detailed technical manuals, user guides
+- User Communities: Online forums, professional networks
+- Support Resources: Helpdesk support, technical assistance
+
+## Integration with Other Systems
+- Compatible Models and Systems: WRF-SFIRE, FlamMap, BehavePlus
+- Data Exchange Formats: GIS standard formats (e.g., shapefiles, GeoTIFF)
+- Workflow Integration: Integration with GIS platforms for data input and visualization
+
+## Recent Updates and Developments
+- Latest Version Information: FARSITE 5.0
+- Recent Improvements: Enhanced user interface, improved fuel model integration
+- Ongoing Research: Integration of fire behavior models with dynamic weather data
+
+## Access and Availability
+- How to Obtain the Software: Available for download from the USDA Forest Service website
+- Licensing Information: Free for non-commercial use, licensing required for commercial applications
+- System Requirements: Windows-based system, moderate computational resources
+- Cost: Free for non-commercial use, licensing fees for commercial applications
+
+This comprehensive research directory provides valuable insights into the FARSITE fire spread model, highlighting its key features, applications, strengths, and limitations for wildfire researchers and practitioners.
+
+---
+
+## Related Models and Resources
+
+### Similar Models in This Category
+Explore other operational fire spread models models in our directory.
+
+### Integration Partners
+Models that commonly integrate with FARSITE.
+
+---
+
+## Contributing to This Page
+
+This page is part of the [Wildfire Simulation & Modeling Research Directory](https://wildfire-directory.netlify.app) maintained by [Rallypoint One](https://rallypoint1.com).
+
+If you have:
+- Updates or corrections
+- Additional use cases or case studies
+- Training resources or documentation
+- Integration examples
+
+Please [open an issue on GitHub](https://github.com/RallypointOne/wildfire-directory/issues) or [contact us](https://rallypoint1.com/contact).
+
+---
+
+*Last updated: November 23, 2025*
+*This page was automatically generated using AI-assisted research. Content is regularly updated to reflect the latest developments.*

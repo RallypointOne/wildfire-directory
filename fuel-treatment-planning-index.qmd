@@ -1,0 +1,43 @@
+---
+title: "Fuel Treatment Planning"
+description: "Complete listing of fuel treatment planning for wildfire research and operations"
+date: 2025-11-23
+toc: true
+---
+
+# Fuel Treatment Planning
+
+This section contains detailed information about 1 fuel treatment planning used in wildfire research and operations.
+
+## Models in This Category
+
+
+### [IFTDSS - Interagency Fuel Treatment Decision Support](iftdss.qmd)
+**Organization**: USDA Forest Service  
+**Type**: Planning system  
+**Focus**: fuel treatment optimization, landscape planning, economic analysis, collaborative planning
+
+---
+
+
+## Category Overview
+
+The Fuel Treatment Planning category includes models and systems that focus on specific aspects of wildfire behavior, management, and analysis. These tools are essential for:
+
+- Operational decision-making
+- Research and development
+- Planning and risk assessment
+- Training and education
+
+## Choosing the Right Model
+
+When selecting a model from this category, consider:
+- Your specific use case and objectives
+- Available data and computational resources
+- Required spatial and temporal resolution
+- Integration with existing workflows
+- Training and support availability
+
+---
+
+*Part of the [Wildfire Research Directory](https://wildfire-directory.netlify.app) by [Rallypoint One](https://rallypoint1.com)*

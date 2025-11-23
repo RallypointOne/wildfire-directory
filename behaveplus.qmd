@@ -1,0 +1,103 @@
+---
+title: "BehavePlus Fire Modeling System"
+description: "Comprehensive guide to BehavePlus Fire Modeling System - surface fire spread, crown fire, spotting distance, fire effects, safety zone calculations"
+date: 2025-11-23
+categories: [Operational Fire Spread Models]
+author: "AI Research Assistant"
+toc: true
+toc-depth: 3
+---
+
+# BehavePlus Fire Modeling System
+
+::: {.callout-note}
+## Quick Facts
+- **Category**: Operational Fire Spread Models
+- **Model Type**: Semi-empirical
+- **Developed by**: USDA Forest Service
+- **Primary Focus**: surface fire spread, crown fire, spotting distance, fire effects, safety zone calculations
+:::
+
+# Research Directory: BehavePlus Fire Modeling System
+
+## Overview
+BehavePlus is a semi-empirical fire behavior modeling system developed by the USDA Forest Service for operational fire spread prediction and management. The model focuses on various aspects of fire behavior, including surface fire spread, crown fire potential, spotting distance, fire effects, and safety zone calculations. BehavePlus plays a crucial role in wildfire management by providing valuable insights into fire behavior under different conditions, aiding fire managers and practitioners in making informed decisions to mitigate fire risk and ensure firefighter safety.
+
+## Key Features and Capabilities
+BehavePlus stands out for its ability to simulate complex fire behavior phenomena, such as crown fires and spotting distances, making it a comprehensive tool for fire management. The model incorporates the latest research findings and empirical equations to accurately predict fire behavior dynamics in diverse landscapes and fuel types.
+
+## Technical Specifications
+- Model Type: Semi-empirical
+- Input Data Requirements: Fuel characteristics, weather conditions, topography, and ignition patterns
+- Output Products: Fire spread rates, flame lengths, crown fire potential, spotting distances, and safety zone sizes
+- Spatial and Temporal Resolution: Varies based on input data resolution
+- Computational Requirements: Moderate computing power for simulations
+
+## Applications and Use Cases
+- Operational Uses: Wildfire behavior prediction, fire suppression tactics planning
+- Research Applications: Fire ecology studies, fuel management strategies
+- Planning and Management Applications: Prescribed burning planning, fire risk assessment
+- Notable Deployments: BehavePlus has been widely used in national parks, forests, and other wildland environments for fire management operations.
+
+## Strengths and Limitations
+- Strengths: Accurate prediction of fire behavior, user-friendly interface, comprehensive fire effects modeling
+- Limitations: Sensitivity to input data quality, limited representation of complex terrain features
+- Best Use Conditions: BehavePlus performs best in scenarios with well-defined fuel and weather data inputs.
+
+## Data Requirements
+- Input Data Needed: Fuel models, weather data, topographic information, ignition patterns
+- Data Formats: ASCII, CSV, GIS formats
+- Data Sources: Remote sensing data, weather stations, field observations
+
+## Training and Resources
+- Available Training Materials: Online tutorials, workshops, user manuals
+- Documentation: Comprehensive technical manuals and guides
+- User Communities: Online forums, professional networks
+- Support Resources: Helpdesk support, user community assistance
+
+## Integration with Other Systems
+- Compatible Models and Systems: FireFamily Plus, FARSITE, FlamMap
+- Data Exchange Formats: Common GIS formats like Shapefile, GeoTIFF
+- Workflow Integration: BehavePlus can be integrated into GIS platforms for seamless workflow management.
+
+## Recent Updates and Developments
+- Latest Version Information: BehavePlus 6.0
+- Recent Improvements: Enhanced user interface, improved fire behavior algorithms
+- Ongoing Research: Continuous efforts to enhance model accuracy and expand its capabilities
+
+## Access and Availability
+- How to Obtain the Software: BehavePlus can be downloaded from the USDA Forest Service website
+- Licensing Information: Free for non-commercial use
+- System Requirements: Windows operating system, moderate computing resources
+- Cost: No cost for academic and non-commercial use
+
+This research directory provides a comprehensive overview of BehavePlus, highlighting its key features, applications, strengths, and limitations. Researchers, fire managers, and practitioners can leverage this information to effectively utilize BehavePlus for wildfire modeling and operational fire management.
+
+---
+
+## Related Models and Resources
+
+### Similar Models in This Category
+Explore other operational fire spread models models in our directory.
+
+### Integration Partners
+Models that commonly integrate with BehavePlus Fire Modeling System.
+
+---
+
+## Contributing to This Page
+
+This page is part of the [Wildfire Simulation & Modeling Research Directory](https://wildfire-directory.netlify.app) maintained by [Rallypoint One](https://rallypoint1.com).
+
+If you have:
+- Updates or corrections
+- Additional use cases or case studies
+- Training resources or documentation
+- Integration examples
+
+Please [open an issue on GitHub](https://github.com/RallypointOne/wildfire-directory/issues) or [contact us](https://rallypoint1.com/contact).
+
+---
+
+*Last updated: November 23, 2025*
+*This page was automatically generated using AI-assisted research. Content is regularly updated to reflect the latest developments.*

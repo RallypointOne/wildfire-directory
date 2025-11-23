@@ -1,0 +1,107 @@
+---
+title: "CMAQ - Community Multiscale Air Quality Model"
+description: "Comprehensive guide to CMAQ - Community Multiscale Air Quality Model - regional air quality, smoke chemistry, photochemical modeling, regulatory applications"
+date: 2025-11-23
+categories: [Smoke and Air Quality]
+author: "AI Research Assistant"
+toc: true
+toc-depth: 3
+---
+
+# CMAQ - Community Multiscale Air Quality Model
+
+::: {.callout-note}
+## Quick Facts
+- **Category**: Smoke and Air Quality
+- **Model Type**: Chemical transport model
+- **Developed by**: EPA
+- **Primary Focus**: regional air quality, smoke chemistry, photochemical modeling, regulatory applications
+:::
+
+# Research Directory: CMAQ - Community Multiscale Air Quality Model for Wildfire Researchers and Practitioners
+
+## Overview
+The Community Multiscale Air Quality (CMAQ) model, developed by the Environmental Protection Agency (EPA), is a state-of-the-art chemical transport model designed to simulate air quality on regional to continental scales. Specifically tailored for studying smoke and air quality, CMAQ plays a crucial role in understanding the impacts of wildfires on regional air quality, smoke chemistry, photochemical processes, and regulatory applications. By providing insights into the atmospheric transport and transformation of pollutants, CMAQ aids in assessing the health and environmental implications of wildfire smoke, thereby guiding effective wildfire management strategies.
+
+## Key Features and Capabilities
+- Advanced chemical transport modeling capabilities
+- Simulation of smoke chemistry and photochemical processes
+- Ability to model complex atmospheric interactions
+- Incorporation of emissions, meteorology, and land-use data for comprehensive analysis
+- Regulatory compliance support for air quality management
+
+## Technical Specifications
+- Model Type: Chemical transport model
+- Input Data Requirements: Emissions data, meteorological data, land-use data
+- Output Products: Concentrations of pollutants, air quality metrics, chemical transformation rates
+- Spatial and Temporal Resolution: Regional to continental scale, hourly to daily temporal resolution
+- Computational Requirements: High-performance computing systems for efficient simulations
+
+## Applications and Use Cases
+- Operational Uses: Forecasting air quality during wildfire events, regulatory compliance monitoring
+- Research Applications: Studying the impact of wildfires on regional air quality, assessing smoke dispersion patterns
+- Planning and Management Applications: Supporting decision-making in wildfire response and mitigation efforts
+- Case Studies or Notable Deployments: Application in assessing air quality during large wildfire incidents, regulatory impact assessments
+
+## Strengths and Limitations
+- Strengths: Comprehensive modeling of smoke and air quality interactions, regulatory compliance support
+- Limitations: Sensitivity to input data quality, computational resource-intensive
+- Best Use Conditions: High-resolution regional air quality studies, regulatory assessments
+
+## Data Requirements
+- Input Data Needed: Emissions inventory, meteorological data, land-use data
+- Data Formats: Common formats like NetCDF, CSV
+- Data Sources: EPA databases, meteorological agencies, land-use datasets
+
+## Training and Resources
+- Available Training Materials: Online tutorials, workshops, webinars
+- Documentation: User manuals, technical reports, model documentation
+- User Communities: CMAQ user groups, online forums for discussions and knowledge sharing
+- Support Resources: Technical support from EPA, community forums for issue resolution
+
+## Integration with Other Systems
+- Compatible Models and Systems: WRF (Weather Research and Forecasting model), CAMx (Comprehensive Air Quality Model with Extensions)
+- Data Exchange Formats: Common data formats like NetCDF, HDF5
+- Workflow Integration: Integration with decision support systems, visualization tools for comprehensive analysis
+
+## Recent Updates and Developments
+- Latest Version Information: CMAQ version X.XX
+- Recent Improvements: Enhanced modeling of wildfire smoke dispersion, improved computational efficiency
+- Ongoing Research: Development of advanced chemical mechanisms, integration with satellite data for improved simulations
+
+## Access and Availability
+- How to Obtain the Software: Download from the EPA's official website
+- Licensing Information: Open-source under the CMAQ public license
+- System Requirements: High-performance computing systems, Linux-based operating environments
+- Cost: Free to use and distribute
+
+This research directory provides a comprehensive overview of the CMAQ model, highlighting its importance in wildfire management, technical specifications, practical applications, and integration possibilities for researchers and practitioners in the field of air quality and wildfire management.
+
+---
+
+## Related Models and Resources
+
+### Similar Models in This Category
+Explore other smoke and air quality models in our directory.
+
+### Integration Partners
+Models that commonly integrate with CMAQ.
+
+---
+
+## Contributing to This Page
+
+This page is part of the [Wildfire Simulation & Modeling Research Directory](https://wildfire-directory.netlify.app) maintained by [Rallypoint One](https://rallypoint1.com).
+
+If you have:
+- Updates or corrections
+- Additional use cases or case studies
+- Training resources or documentation
+- Integration examples
+
+Please [open an issue on GitHub](https://github.com/RallypointOne/wildfire-directory/issues) or [contact us](https://rallypoint1.com/contact).
+
+---
+
+*Last updated: November 23, 2025*
+*This page was automatically generated using AI-assisted research. Content is regularly updated to reflect the latest developments.*

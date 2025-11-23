@@ -1,0 +1,43 @@
+---
+title: "Fire Danger Rating Systems"
+description: "Complete listing of fire danger rating systems for wildfire research and operations"
+date: 2025-11-23
+toc: true
+---
+
+# Fire Danger Rating Systems
+
+This section contains detailed information about 1 fire danger rating systems used in wildfire research and operations.
+
+## Models in This Category
+
+
+### [CFFDRS - Canadian Forest Fire Danger Rating System](cffdrs.qmd)
+**Organization**: Canadian Forest Service  
+**Type**: Empirical  
+**Focus**: fire weather index, fire behavior prediction, fuel moisture codes, national standard
+
+---
+
+
+## Category Overview
+
+The Fire Danger Rating Systems category includes models and systems that focus on specific aspects of wildfire behavior, management, and analysis. These tools are essential for:
+
+- Operational decision-making
+- Research and development
+- Planning and risk assessment
+- Training and education
+
+## Choosing the Right Model
+
+When selecting a model from this category, consider:
+- Your specific use case and objectives
+- Available data and computational resources
+- Required spatial and temporal resolution
+- Integration with existing workflows
+- Training and support availability
+
+---
+
+*Part of the [Wildfire Research Directory](https://wildfire-directory.netlify.app) by [Rallypoint One](https://rallypoint1.com)*

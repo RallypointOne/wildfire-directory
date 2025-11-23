@@ -1,0 +1,57 @@
+---
+title: "Coupled Weather-Fire Models"
+description: "Complete listing of coupled weather-fire models for wildfire research and operations"
+date: 2025-11-23
+toc: true
+---
+
+# Coupled Weather-Fire Models
+
+This section contains detailed information about 3 coupled weather-fire models used in wildfire research and operations.
+
+## Models in This Category
+
+
+### [WRF-SFIRE - Coupled Atmosphere-Fire Model](wrf-sfire.qmd)
+**Organization**: NCAR/University of Denver  
+**Type**: Coupled model  
+**Focus**: two-way fire-atmosphere coupling, mesoscale weather, operational forecasting, smoke transport
+
+---
+
+### [ARPS-CANOPY - Advanced Regional Prediction System](arps-canopy.qmd)
+**Organization**: University of Oklahoma  
+**Type**: Coupled model  
+**Focus**: mesoscale atmospheric modeling, canopy interactions, fire weather prediction
+
+---
+
+### [Meso-NH/ForeFire - French Coupled Model](meso-nh-forefire.qmd)
+**Organization**: Météo-France/Université de Corse  
+**Type**: Coupled model  
+**Focus**: European fire modeling, Mediterranean fires, atmospheric coupling, research applications
+
+---
+
+
+## Category Overview
+
+The Coupled Weather-Fire Models category includes models and systems that focus on specific aspects of wildfire behavior, management, and analysis. These tools are essential for:
+
+- Operational decision-making
+- Research and development
+- Planning and risk assessment
+- Training and education
+
+## Choosing the Right Model
+
+When selecting a model from this category, consider:
+- Your specific use case and objectives
+- Available data and computational resources
+- Required spatial and temporal resolution
+- Integration with existing workflows
+- Training and support availability
+
+---
+
+*Part of the [Wildfire Research Directory](https://wildfire-directory.netlify.app) by [Rallypoint One](https://rallypoint1.com)*

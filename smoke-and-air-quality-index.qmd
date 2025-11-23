@@ -1,0 +1,57 @@
+---
+title: "Smoke and Air Quality"
+description: "Complete listing of smoke and air quality for wildfire research and operations"
+date: 2025-11-23
+toc: true
+---
+
+# Smoke and Air Quality
+
+This section contains detailed information about 3 smoke and air quality used in wildfire research and operations.
+
+## Models in This Category
+
+
+### [BlueSky Smoke Modeling Framework](bluesky.qmd)
+**Organization**: USDA Forest Service  
+**Type**: Integrated framework  
+**Focus**: smoke emissions, air quality forecasting, trajectory modeling, health impacts
+
+---
+
+### [HYSPLIT - Atmospheric Transport Model](hysplit.qmd)
+**Organization**: NOAA  
+**Type**: Atmospheric model  
+**Focus**: smoke dispersion, trajectory analysis, air quality, atmospheric transport
+
+---
+
+### [CMAQ - Community Multiscale Air Quality Model](cmaq-smoke.qmd)
+**Organization**: EPA  
+**Type**: Chemical transport model  
+**Focus**: regional air quality, smoke chemistry, photochemical modeling, regulatory applications
+
+---
+
+
+## Category Overview
+
+The Smoke and Air Quality category includes models and systems that focus on specific aspects of wildfire behavior, management, and analysis. These tools are essential for:
+
+- Operational decision-making
+- Research and development
+- Planning and risk assessment
+- Training and education
+
+## Choosing the Right Model
+
+When selecting a model from this category, consider:
+- Your specific use case and objectives
+- Available data and computational resources
+- Required spatial and temporal resolution
+- Integration with existing workflows
+- Training and support availability
+
+---
+
+*Part of the [Wildfire Research Directory](https://wildfire-directory.netlify.app) by [Rallypoint One](https://rallypoint1.com)*

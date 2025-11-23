@@ -1,0 +1,43 @@
+---
+title: "AI/ML Applications"
+description: "Complete listing of ai/ml applications for wildfire research and operations"
+date: 2025-11-23
+toc: true
+---
+
+# AI/ML Applications
+
+This section contains detailed information about 1 ai/ml applications used in wildfire research and operations.
+
+## Models in This Category
+
+
+### [Machine Learning Fire Prediction Systems](ml-fire-prediction.qmd)
+**Organization**: Various (Google, IBM, Microsoft)  
+**Type**: Machine learning  
+**Focus**: deep learning, neural networks, satellite data integration, next-generation prediction
+
+---
+
+
+## Category Overview
+
+The AI/ML Applications category includes models and systems that focus on specific aspects of wildfire behavior, management, and analysis. These tools are essential for:
+
+- Operational decision-making
+- Research and development
+- Planning and risk assessment
+- Training and education
+
+## Choosing the Right Model
+
+When selecting a model from this category, consider:
+- Your specific use case and objectives
+- Available data and computational resources
+- Required spatial and temporal resolution
+- Integration with existing workflows
+- Training and support availability
+
+---
+
+*Part of the [Wildfire Research Directory](https://wildfire-directory.netlify.app) by [Rallypoint One](https://rallypoint1.com)*

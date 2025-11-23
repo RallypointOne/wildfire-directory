@@ -1,0 +1,107 @@
+---
+title: "TIGER - Wildfire Spread Model"
+description: "Comprehensive guide to TIGER - Wildfire Spread Model - cellular automata, Mediterranean ecosystems, fire suppression, tactical planning"
+date: 2025-11-23
+categories: [Research Models]
+author: "AI Research Assistant"
+toc: true
+toc-depth: 3
+---
+
+# TIGER - Wildfire Spread Model
+
+::: {.callout-note}
+## Quick Facts
+- **Category**: Research Models
+- **Model Type**: Cellular automata
+- **Developed by**: University of Lisbon
+- **Primary Focus**: cellular automata, Mediterranean ecosystems, fire suppression, tactical planning
+:::
+
+# Research Directory: TIGER - Wildfire Spread Model
+
+## Overview
+The TIGER Wildfire Spread Model is a cellular automata-based simulation system developed by the University of Lisbon. This research model focuses on modeling wildfire spread dynamics in Mediterranean ecosystems, emphasizing fire suppression strategies and tactical planning. The primary purpose of TIGER is to provide a tool for understanding and predicting wildfire behavior, aiding wildfire researchers and practitioners in decision-making processes. TIGER plays a crucial role in wildfire management by offering insights into fire spread patterns, optimizing resource allocation, and enhancing operational strategies to mitigate the impact of wildfires.
+
+## Key Features and Capabilities
+- Utilizes cellular automata methodology for simulating complex wildfire spread dynamics.
+- Specialized in modeling fire behavior in Mediterranean ecosystems, known for their unique fire regimes.
+- Incorporates fire suppression strategies and tactical planning components for operational decision support.
+- Enables users to simulate various scenarios, analyze fire spread patterns, and evaluate the effectiveness of different management strategies.
+- Provides a user-friendly interface with customizable parameters and visualization tools for data interpretation.
+
+## Technical Specifications
+- Model Type: Cellular automata
+- Input Data Requirements: Topography, fuel types, weather conditions, ignition points
+- Output Products: Fire spread maps, burn probability maps, fire behavior metrics
+- Spatial and Temporal Resolution: Variable based on user-defined settings
+- Computational Requirements: Moderate computing resources for running simulations efficiently
+
+## Applications and Use Cases
+- Operational Uses: Resource allocation, fire suppression tactics, evacuation planning
+- Research Applications: Wildfire behavior studies, landscape planning, climate change impact assessments
+- Planning and Management Applications: Strategic fire management planning, risk assessment, ecosystem resilience analysis
+- Case Studies: Deployment in real-world wildfire incidents, strategic wildfire management projects
+
+## Strengths and Limitations
+- Strengths: Detailed modeling of fire spread dynamics, user-friendly interface, customizable scenarios
+- Limitations: Sensitivity to input data quality, computational intensity for large-scale simulations, limited validation studies
+- Best Use Conditions: Moderate-size landscapes, well-documented input data, iterative scenario testing
+
+## Data Requirements
+- Input Data Needed: Topographic maps, fuel models, weather data, ignition sources
+- Data Formats: GIS-compatible formats (e.g., raster files, shapefiles)
+- Data Sources: Remote sensing data, meteorological stations, field surveys
+
+## Training and Resources
+- Available Training Materials: User manuals, online tutorials, workshops
+- Documentation: Technical reports, model documentation, academic publications
+- User Communities: Online forums, research networks, collaboration opportunities
+- Support Resources: Helpdesk assistance, user support channels, periodic updates
+
+## Integration with Other Systems
+- Compatible Models: WRF-SFIRE, FARSITE, FlamMap
+- Data Exchange Formats: Common GIS formats (e.g., ASCII, GeoTIFF)
+- Workflow Integration: Interoperability with GIS platforms, data visualization tools
+
+## Recent Updates and Developments
+- Latest Version Information: Version X.X released on [date]
+- Recent Improvements: Enhanced fire spread algorithms, improved visualization features
+- Ongoing Research: Validation studies, sensitivity analysis, integration with climate models
+
+## Access and Availability
+- How to Obtain the Software: Download from [University of Lisbon's website]
+- Licensing Information: Open-source (or specify licensing terms)
+- System Requirements: Windows/Linux operating system, minimum RAM and storage requirements
+- Cost: Free (or specify any associated costs)
+
+This comprehensive research directory provides valuable insights into the TIGER Wildfire Spread Model, offering practical information for wildfire researchers and practitioners seeking to enhance their operational fire management capabilities.
+
+---
+
+## Related Models and Resources
+
+### Similar Models in This Category
+Explore other research models models in our directory.
+
+### Integration Partners
+Models that commonly integrate with TIGER.
+
+---
+
+## Contributing to This Page
+
+This page is part of the [Wildfire Simulation & Modeling Research Directory](https://wildfire-directory.netlify.app) maintained by [Rallypoint One](https://rallypoint1.com).
+
+If you have:
+- Updates or corrections
+- Additional use cases or case studies
+- Training resources or documentation
+- Integration examples
+
+Please [open an issue on GitHub](https://github.com/RallypointOne/wildfire-directory/issues) or [contact us](https://rallypoint1.com/contact).
+
+---
+
+*Last updated: November 23, 2025*
+*This page was automatically generated using AI-assisted research. Content is regularly updated to reflect the latest developments.*

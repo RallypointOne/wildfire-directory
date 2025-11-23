@@ -1,0 +1,109 @@
+---
+title: "WRF-SFIRE - Coupled Atmosphere-Fire Model"
+description: "Comprehensive guide to WRF-SFIRE - Coupled Atmosphere-Fire Model - two-way fire-atmosphere coupling, mesoscale weather, operational forecasting, smoke transport"
+date: 2025-11-23
+categories: [Coupled Weather-Fire Models]
+author: "AI Research Assistant"
+toc: true
+toc-depth: 3
+---
+
+# WRF-SFIRE - Coupled Atmosphere-Fire Model
+
+::: {.callout-note}
+## Quick Facts
+- **Category**: Coupled Weather-Fire Models
+- **Model Type**: Coupled model
+- **Developed by**: NCAR/University of Denver
+- **Primary Focus**: two-way fire-atmosphere coupling, mesoscale weather, operational forecasting, smoke transport
+:::
+
+# Research Directory: WRF-SFIRE - Coupled Atmosphere-Fire Model
+
+## Overview
+The WRF-SFIRE model, developed by NCAR/University of Denver, is a coupled atmosphere-fire model designed to simulate the complex interactions between wildfires and the surrounding atmosphere. This model enables two-way fire-atmosphere coupling, allowing for a more realistic representation of fire behavior under varying weather conditions. Its primary purpose is to enhance operational forecasting capabilities for wildfires, improve smoke transport predictions, and support decision-making in wildfire management. By integrating mesoscale weather data with fire behavior simulations, WRF-SFIRE provides valuable insights into fire dynamics and the impact of fires on the atmosphere.
+
+## Key Features and Capabilities
+- Two-way fire-atmosphere coupling for realistic fire behavior simulations
+- Integration of mesoscale weather data for accurate fire weather predictions
+- Operational forecasting capabilities to support real-time decision-making
+- Smoke transport modeling to assess air quality impacts
+- Unique ability to simulate the feedback between fire behavior and atmospheric conditions
+
+## Technical Specifications
+- Model type: Coupled atmosphere-fire model
+- Approach: Two-way coupling between WRF (Weather Research and Forecasting) and SFIRE (wildfire spread model)
+- Input data requirements: Meteorological data, terrain information, fuel characteristics, ignition points
+- Output products: Fire spread, smoke dispersion, weather-fire interactions
+- Spatial resolution: Mesoscale (varying based on WRF configuration)
+- Temporal resolution: Hourly to sub-hourly
+- Computational requirements: High-performance computing resources for real-time simulations
+
+## Applications and Use Cases
+- Operational uses: Wildfire forecasting, incident management, air quality monitoring
+- Research applications: Fire-atmosphere interactions, fuel dynamics, climate change impacts
+- Planning and management applications: Risk assessment, prescribed burning optimization, emergency response planning
+- Case studies: Deployment in large wildfires for real-time decision support
+
+## Strengths and Limitations
+- Strengths: Realistic representation of fire behavior, improved forecasting accuracy, valuable for operational decision-making
+- Limitations: Computational intensity, sensitivity to input data quality, limited spatial resolution in some applications
+- Best use conditions: High-impact wildfires, scenarios requiring detailed fire-atmosphere interactions
+
+## Data Requirements
+- Input data needed: Meteorological data (temperature, humidity, wind), terrain information, fuel moisture content, ignition locations
+- Data formats: NetCDF, GIS formats
+- Data sources: Weather stations, remote sensing platforms, fuel databases
+
+## Training and Resources
+- Available training materials: Online tutorials, workshops, user guides
+- Documentation: Model documentation, technical reports, scientific publications
+- User communities: WRF-SFIRE user groups, forums, conferences
+- Support resources: Help desk, email support, collaboration opportunities
+
+## Integration with Other Systems
+- Compatible models and systems: WRF, fire behavior models, air quality models
+- Data exchange formats: NetCDF, common GIS formats
+- Workflow integration: Seamless integration with WRF modeling system, interoperability with fire management tools
+
+## Recent Updates and Developments
+- Latest version: WRF-SFIRE version X.X
+- Recent improvements: Enhanced fire behavior algorithms, improved smoke modeling capabilities
+- Ongoing research: Further refinement of fire-atmosphere interactions, integration with global climate models
+
+## Access and Availability
+- How to obtain the software: Download from NCAR/University of Denver website
+- Licensing information: Open-source with academic and research licenses available
+- System requirements: High-performance computing cluster, compatible with major operating systems
+- Cost: Free for academic and research purposes
+
+This research directory provides a comprehensive overview of the WRF-SFIRE model, highlighting its capabilities, applications, data requirements, strengths, and limitations. Researchers and practitioners in wildfire management can leverage this coupled atmosphere-fire model for improved forecasting, decision support, and understanding of fire-atmosphere interactions. Stay updated with the latest developments and access resources to enhance your wildfire modeling and simulation capabilities.
+
+---
+
+## Related Models and Resources
+
+### Similar Models in This Category
+Explore other coupled weather-fire models models in our directory.
+
+### Integration Partners
+Models that commonly integrate with WRF-SFIRE.
+
+---
+
+## Contributing to This Page
+
+This page is part of the [Wildfire Simulation & Modeling Research Directory](https://wildfire-directory.netlify.app) maintained by [Rallypoint One](https://rallypoint1.com).
+
+If you have:
+- Updates or corrections
+- Additional use cases or case studies
+- Training resources or documentation
+- Integration examples
+
+Please [open an issue on GitHub](https://github.com/RallypointOne/wildfire-directory/issues) or [contact us](https://rallypoint1.com/contact).
+
+---
+
+*Last updated: November 23, 2025*
+*This page was automatically generated using AI-assisted research. Content is regularly updated to reflect the latest developments.*

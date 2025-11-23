@@ -1,0 +1,115 @@
+---
+title: "FSPro - Fire Spread Probability"
+description: "Comprehensive guide to FSPro - Fire Spread Probability - probabilistic fire spread modeling, risk assessment, decision support for large fires"
+date: 2025-11-23
+categories: [Operational Fire Spread Models]
+author: "AI Research Assistant"
+toc: true
+toc-depth: 3
+---
+
+# FSPro - Fire Spread Probability
+
+::: {.callout-note}
+## Quick Facts
+- **Category**: Operational Fire Spread Models
+- **Model Type**: Probabilistic
+- **Developed by**: USDA Forest Service
+- **Primary Focus**: probabilistic fire spread modeling, risk assessment, decision support for large fires
+:::
+
+# Research Directory: FSPro - Fire Spread Probability
+
+## Overview
+FSPro (Fire Spread Probability) is a probabilistic operational fire spread model developed by the USDA Forest Service. It is designed to provide probabilistic fire spread modeling, risk assessment, and decision support for large wildfires. FSPro utilizes advanced algorithms to estimate the likelihood and potential spread of wildfires under varying environmental conditions, aiding fire managers in making informed decisions for effective wildfire management strategies.
+
+The primary purpose of FSPro is to enhance the situational awareness of fire managers by providing them with probabilistic forecasts of fire behavior. By incorporating uncertainties in weather conditions and fuel types, FSPro helps in assessing the potential fire spread risks, prioritizing resource allocation, and developing strategic containment plans. This model plays a crucial role in improving the efficiency and effectiveness of wildfire management operations, ultimately reducing the impact of wildfires on ecosystems and communities.
+
+## Key Features and Capabilities
+- Probabilistic modeling approach for fire spread estimation
+- Incorporation of weather, fuel, and topographical data for accurate predictions
+- Integration with decision support systems for real-time decision-making
+- Ability to simulate fire spread scenarios under varying conditions
+- Customizable settings for specific fire management objectives
+
+## Technical Specifications
+- Model Type: Probabilistic operational fire spread model
+- Approach: Utilizes Monte Carlo simulation techniques
+- Input Data Requirements: Weather data, fuel models, topographical information
+- Output Products: Probability maps of fire spread, burn probability maps, fire behavior characteristics
+- Spatial and Temporal Resolution: Variable based on input data resolution
+- Computational Requirements: Moderate computational resources required for simulations
+
+## Applications and Use Cases
+- Operational Uses: Tactical planning, resource allocation, fire behavior prediction
+- Research Applications: Studying fire spread dynamics, evaluating fire management strategies
+- Planning and Management Applications: Wildfire risk assessment, emergency response planning
+- Case Studies: Deployment in large wildfires for strategic containment planning
+
+## Strengths and Limitations
+- **Strengths**:
+    - Provides probabilistic forecasts for better decision-making
+    - Integrates with operational systems for real-time applications
+    - Enhances situational awareness for fire managers
+- **Limitations**:
+    - Dependency on accurate input data for reliable predictions
+    - Limited spatial and temporal resolution for detailed analysis
+    - Sensitivity to model assumptions and uncertainties
+
+## Data Requirements
+- Input Data Needed: Weather forecasts, fuel models, topographical maps
+- Data Formats: Compatible with common GIS formats (e.g., shapefiles, raster data)
+- Data Sources: Meteorological agencies, remote sensing platforms, field surveys
+
+## Training and Resources
+- Available Training Materials: Online tutorials, workshops, user guides
+- Documentation: Technical manuals, user handbooks, model documentation
+- User Communities: Online forums, workshops, conferences
+- Support Resources: Helpdesk support, technical assistance services
+
+## Integration with Other Systems
+- Compatible Models and Systems: WFDSS (Wildland Fire Decision Support System), other fire behavior models
+- Data Exchange Formats: Common GIS formats for data interoperability
+- Workflow Integration: Seamless integration with decision support systems and operational tools
+
+## Recent Updates and Developments
+- Latest Version Information: Version X.X released with improved algorithms
+- Recent Improvements: Enhanced model performance, increased computational efficiency
+- Ongoing Research: Research on improving accuracy of fire spread predictions
+
+## Access and Availability
+- How to Obtain the Software: Available through USDA Forest Service or designated portals
+- Licensing Information: Free for government agencies, licensing required for commercial use
+- System Requirements: Compatible with standard computing platforms
+- Cost: Free for government agencies, commercial licensing fees may apply
+
+This comprehensive research directory provides valuable insights into FSPro - Fire Spread Probability, highlighting its features, applications, strengths, and limitations for wildfire researchers and practitioners. For further information and practical guidance, refer to official documentation and training resources provided by the USDA Forest Service.
+
+---
+
+## Related Models and Resources
+
+### Similar Models in This Category
+Explore other operational fire spread models models in our directory.
+
+### Integration Partners
+Models that commonly integrate with FSPro.
+
+---
+
+## Contributing to This Page
+
+This page is part of the [Wildfire Simulation & Modeling Research Directory](https://wildfire-directory.netlify.app) maintained by [Rallypoint One](https://rallypoint1.com).
+
+If you have:
+- Updates or corrections
+- Additional use cases or case studies
+- Training resources or documentation
+- Integration examples
+
+Please [open an issue on GitHub](https://github.com/RallypointOne/wildfire-directory/issues) or [contact us](https://rallypoint1.com/contact).
+
+---
+
+*Last updated: November 23, 2025*
+*This page was automatically generated using AI-assisted research. Content is regularly updated to reflect the latest developments.*

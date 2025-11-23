@@ -1,0 +1,64 @@
+---
+title: "Physics-Based Models"
+description: "Complete listing of physics-based models for wildfire research and operations"
+date: 2025-11-23
+toc: true
+---
+
+# Physics-Based Models
+
+This section contains detailed information about 4 physics-based models used in wildfire research and operations.
+
+## Models in This Category
+
+
+### [FIRETEC - Physics-Based Fire Model](firetec.qmd)
+**Organization**: Los Alamos National Laboratory  
+**Type**: Physics-based  
+**Focus**: computational fluid dynamics, detailed physics, fire-atmosphere coupling, complex terrain
+
+---
+
+### [WFDS - Wildland-Urban Interface Fire Dynamics Simulator](wfds.qmd)
+**Organization**: NIST  
+**Type**: Physics-based  
+**Focus**: WUI fires, structural ignition, detailed combustion physics, smoke transport
+
+---
+
+### [FireFOAM - OpenFOAM Fire Solver](firefoam.qmd)
+**Organization**: FM Global/OpenFOAM  
+**Type**: Physics-based  
+**Focus**: open-source CFD, large eddy simulation, turbulent combustion, research applications
+
+---
+
+### [QUIC-Fire - Fast Physics-Based Model](quic-fire.qmd)
+**Organization**: Los Alamos National Laboratory  
+**Type**: Physics-based  
+**Focus**: fast-running physics model, urban interface, smoke dispersion, GPU acceleration
+
+---
+
+
+## Category Overview
+
+The Physics-Based Models category includes models and systems that focus on specific aspects of wildfire behavior, management, and analysis. These tools are essential for:
+
+- Operational decision-making
+- Research and development
+- Planning and risk assessment
+- Training and education
+
+## Choosing the Right Model
+
+When selecting a model from this category, consider:
+- Your specific use case and objectives
+- Available data and computational resources
+- Required spatial and temporal resolution
+- Integration with existing workflows
+- Training and support availability
+
+---
+
+*Part of the [Wildfire Research Directory](https://wildfire-directory.netlify.app) by [Rallypoint One](https://rallypoint1.com)*

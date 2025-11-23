@@ -1,0 +1,107 @@
+---
+title: "FireFOAM - OpenFOAM Fire Solver"
+description: "Comprehensive guide to FireFOAM - OpenFOAM Fire Solver - open-source CFD, large eddy simulation, turbulent combustion, research applications"
+date: 2025-11-23
+categories: [Physics-Based Models]
+author: "AI Research Assistant"
+toc: true
+toc-depth: 3
+---
+
+# FireFOAM - OpenFOAM Fire Solver
+
+::: {.callout-note}
+## Quick Facts
+- **Category**: Physics-Based Models
+- **Model Type**: Physics-based
+- **Developed by**: FM Global/OpenFOAM
+- **Primary Focus**: open-source CFD, large eddy simulation, turbulent combustion, research applications
+:::
+
+# Research Directory: FireFOAM - OpenFOAM Fire Solver
+
+## Overview
+FireFOAM is an open-source Computational Fluid Dynamics (CFD) solver developed by FM Global in collaboration with the OpenFOAM community. This physics-based model is designed to simulate wildfire behavior using large eddy simulation and turbulent combustion models. Its primary purpose is to provide researchers and practitioners with a powerful tool for studying fire dynamics, spread patterns, and behavior in complex environments. FireFOAM plays a crucial role in wildfire management by offering a sophisticated simulation platform that can model the intricate interactions between fire, terrain, and weather conditions.
+
+## Key Features and Capabilities
+- Utilizes advanced CFD techniques for accurate fire modeling.
+- Incorporates large eddy simulation for resolving complex turbulent flows.
+- Provides capabilities for simulating turbulent combustion in wildfire scenarios.
+- Offers open-source flexibility and customization for research applications.
+- Enables detailed analysis of fire spread patterns and behavior in various terrains.
+
+## Technical Specifications
+- Model Type: Physics-based Computational Fluid Dynamics (CFD) solver
+- Input Data Requirements: Terrain data, weather conditions, fuel characteristics
+- Output Products: Fire spread maps, temperature profiles, wind velocity fields
+- Spatial and Temporal Resolution: Adjustable based on simulation requirements
+- Computational Requirements: High-performance computing resources recommended
+
+## Applications and Use Cases
+- Operational Uses: Wildfire behavior prediction, fire spread modeling for emergency response
+- Research Applications: Studying fire dynamics, fuel combustion processes, fire management strategies
+- Planning and Management Applications: Assessing fire risk, optimizing firefighting tactics
+- Case Studies or Notable Deployments: Real-time fire behavior prediction during large wildfire events
+
+## Strengths and Limitations
+- Strengths: Accurate simulation of fire behavior, customizable for specific research needs
+- Limitations: High computational resource requirements, complex setup for novice users
+- Best Use Conditions: Large-scale wildfire simulations, research studies requiring detailed fire behavior analysis
+
+## Data Requirements
+- Input Data Needed: Terrain elevation data, weather inputs, fuel characteristics
+- Data Formats: GIS formats, weather data files, fuel models
+- Data Sources: Remote sensing data, weather stations, fuel characterization databases
+
+## Training and Resources
+- Available Training Materials: Online tutorials, workshops, user manuals
+- Documentation: Detailed user guides, technical documentation
+- User Communities: OpenFOAM community forums, research groups focused on fire modeling
+- Support Resources: Technical support from FM Global, community forums for troubleshooting
+
+## Integration with Other Systems
+- Compatible Models and Systems: GIS platforms, weather forecasting models
+- Data Exchange Formats: Common file formats for terrain, weather, and fuel data
+- Workflow Integration: Customizable interfaces for integrating with other modeling tools
+
+## Recent Updates and Developments
+- Latest Version Information: FireFOAM version X.X released in [date]
+- Recent Improvements: Enhanced turbulence modeling, improved combustion simulation accuracy
+- Ongoing Research: Integration with real-time weather data for dynamic fire behavior prediction
+
+## Access and Availability
+- How to Obtain the Software: Download from the OpenFOAM repository or FM Global website
+- Licensing Information: Open-source license (GNU General Public License)
+- System Requirements: High-performance computing resources recommended
+- Cost: Free to use for research and academic purposes
+
+This research directory provides a comprehensive overview of FireFOAM, highlighting its features, applications, data requirements, and integration capabilities. Researchers and practitioners in wildfire management can leverage FireFOAM for in-depth fire behavior analysis and simulation studies.
+
+---
+
+## Related Models and Resources
+
+### Similar Models in This Category
+Explore other physics-based models models in our directory.
+
+### Integration Partners
+Models that commonly integrate with FireFOAM.
+
+---
+
+## Contributing to This Page
+
+This page is part of the [Wildfire Simulation & Modeling Research Directory](https://wildfire-directory.netlify.app) maintained by [Rallypoint One](https://rallypoint1.com).
+
+If you have:
+- Updates or corrections
+- Additional use cases or case studies
+- Training resources or documentation
+- Integration examples
+
+Please [open an issue on GitHub](https://github.com/RallypointOne/wildfire-directory/issues) or [contact us](https://rallypoint1.com/contact).
+
+---
+
+*Last updated: November 23, 2025*
+*This page was automatically generated using AI-assisted research. Content is regularly updated to reflect the latest developments.*

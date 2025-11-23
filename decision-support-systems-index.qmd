@@ -1,0 +1,43 @@
+---
+title: "Decision Support Systems"
+description: "Complete listing of decision support systems for wildfire research and operations"
+date: 2025-11-23
+toc: true
+---
+
+# Decision Support Systems
+
+This section contains detailed information about 1 decision support systems used in wildfire research and operations.
+
+## Models in This Category
+
+
+### [WFDSS - Wildland Fire Decision Support System](wfdss.qmd)
+**Organization**: USDA Forest Service & DOI  
+**Type**: Integrated System  
+**Focus**: integrated decision support, risk assessment, strategic planning, multi-objective optimization
+
+---
+
+
+## Category Overview
+
+The Decision Support Systems category includes models and systems that focus on specific aspects of wildfire behavior, management, and analysis. These tools are essential for:
+
+- Operational decision-making
+- Research and development
+- Planning and risk assessment
+- Training and education
+
+## Choosing the Right Model
+
+When selecting a model from this category, consider:
+- Your specific use case and objectives
+- Available data and computational resources
+- Required spatial and temporal resolution
+- Integration with existing workflows
+- Training and support availability
+
+---
+
+*Part of the [Wildfire Research Directory](https://wildfire-directory.netlify.app) by [Rallypoint One](https://rallypoint1.com)*

@@ -1,0 +1,106 @@
+---
+title: "Prometheus - Canadian Fire Growth Model"
+description: "Comprehensive guide to Prometheus - Canadian Fire Growth Model - elliptical fire growth, Canadian fuel types, operational use, deterministic spread"
+date: 2025-11-23
+categories: [Operational Fire Spread Models]
+author: "AI Research Assistant"
+toc: true
+toc-depth: 3
+---
+
+# Prometheus - Canadian Fire Growth Model
+
+::: {.callout-note}
+## Quick Facts
+- **Category**: Operational Fire Spread Models
+- **Model Type**: Semi-empirical
+- **Developed by**: Canadian Forest Service
+- **Primary Focus**: elliptical fire growth, Canadian fuel types, operational use, deterministic spread
+:::
+
+# Research Directory: Prometheus - Canadian Fire Growth Model
+
+## Overview
+Prometheus is a semi-empirical operational fire spread model developed by the Canadian Forest Service. Its primary focus is on predicting elliptical fire growth patterns specific to Canadian fuel types for operational fire management purposes. The model provides deterministic spread simulations that aid in decision-making during wildfire events. Prometheus plays a crucial role in enhancing wildfire management strategies by providing valuable insights into potential fire behavior and growth dynamics.
+
+## Key Features and Capabilities
+- Unique focus on elliptical fire growth patterns
+- Tailored for Canadian fuel types
+- Operational use for real-time decision support
+- Deterministic spread simulations for accurate predictions
+
+## Technical Specifications
+- Model type and approach: Semi-empirical
+- Input data requirements: Fuel types, weather conditions, topography
+- Output products: Fire growth predictions, spread patterns
+- Spatial and temporal resolution: Variable based on input data resolution
+- Computational requirements: Moderate computational resources needed
+
+## Applications and Use Cases
+- Operational uses: Real-time fire behavior prediction
+- Research applications: Studying fire spread dynamics
+- Planning and management applications: Resource allocation, evacuation planning
+- Notable deployments: Used in Canadian wildland fire management operations
+
+## Strengths and Limitations
+- Strengths: Accurate elliptical fire growth predictions, tailored for Canadian conditions
+- Limitations: Simplified fuel modeling, limited spatial resolution
+- Best use conditions: Well-defined fuel types and accurate weather data
+
+## Data Requirements
+- Input data needed: Fuel types, weather data, topographical information
+- Data formats: GIS formats, weather data files
+- Data sources: Canadian Forest Service databases, meteorological agencies
+
+## Training and Resources
+- Available training materials: Online tutorials, workshops
+- Documentation: User manuals, technical guides
+- User communities: Wildfire research forums, conferences
+- Support resources: Help desk, technical support team
+
+## Integration with Other Systems
+- Compatible models and systems: Fire behavior models, GIS platforms
+- Data exchange formats: GIS-compatible formats
+- Workflow integration: Seamless integration with GIS tools
+
+## Recent Updates and Developments
+- Latest version information: Version X.X released on MM/YYYY
+- Recent improvements: Enhanced fuel modeling, improved computational efficiency
+- Ongoing research: Further refining fire behavior predictions
+
+## Access and Availability
+- How to obtain the software: Contact Canadian Forest Service
+- Licensing information: Licensing required for commercial use
+- System requirements: Standard computing setup
+- Cost: Free for research purposes, commercial licensing fees applicable
+
+This research directory provides a comprehensive overview of Prometheus, highlighting its key features, technical specifications, applications, and limitations. Researchers, fire managers, and practitioners can leverage this information to enhance their understanding and utilization of this critical fire growth model.
+
+---
+
+## Related Models and Resources
+
+### Similar Models in This Category
+Explore other operational fire spread models models in our directory.
+
+### Integration Partners
+Models that commonly integrate with Prometheus.
+
+---
+
+## Contributing to This Page
+
+This page is part of the [Wildfire Simulation & Modeling Research Directory](https://wildfire-directory.netlify.app) maintained by [Rallypoint One](https://rallypoint1.com).
+
+If you have:
+- Updates or corrections
+- Additional use cases or case studies
+- Training resources or documentation
+- Integration examples
+
+Please [open an issue on GitHub](https://github.com/RallypointOne/wildfire-directory/issues) or [contact us](https://rallypoint1.com/contact).
+
+---
+
+*Last updated: November 23, 2025*
+*This page was automatically generated using AI-assisted research. Content is regularly updated to reflect the latest developments.*

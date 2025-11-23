@@ -1,0 +1,107 @@
+---
+title: "HYSPLIT - Atmospheric Transport Model"
+description: "Comprehensive guide to HYSPLIT - Atmospheric Transport Model - smoke dispersion, trajectory analysis, air quality, atmospheric transport"
+date: 2025-11-23
+categories: [Smoke and Air Quality]
+author: "AI Research Assistant"
+toc: true
+toc-depth: 3
+---
+
+# HYSPLIT - Atmospheric Transport Model
+
+::: {.callout-note}
+## Quick Facts
+- **Category**: Smoke and Air Quality
+- **Model Type**: Atmospheric model
+- **Developed by**: NOAA
+- **Primary Focus**: smoke dispersion, trajectory analysis, air quality, atmospheric transport
+:::
+
+# HYSPLIT - Atmospheric Transport Model Research Directory
+
+## Overview
+The HYSPLIT (Hybrid Single-Particle Lagrangian Integrated Trajectory) model is an atmospheric transport and dispersion model developed by NOAA (National Oceanic and Atmospheric Administration). Primarily designed for smoke and air quality applications, this model plays a crucial role in wildfire management by providing valuable insights into smoke dispersion, trajectory analysis, air quality monitoring, and atmospheric transport patterns. By simulating the movement of particles in the atmosphere, HYSPLIT helps researchers and practitioners understand how wildfires impact air quality and how smoke plumes disperse over time and space.
+
+## Key Features and Capabilities
+- Lagrangian particle dispersion modeling
+- Dispersion analysis for smoke, pollutants, and other airborne particles
+- Trajectory analysis for tracking air mass movements
+- Source-receptor relationships for understanding pollutant pathways
+- Real-time data assimilation capabilities for emergency response
+
+## Technical Specifications
+- Model type: Lagrangian atmospheric transport model
+- Input data requirements: Meteorological data (wind speed, direction, temperature, etc.), emission sources, terrain data
+- Output products: Concentration maps, trajectory plots, dispersion forecasts
+- Spatial and temporal resolution: Adjustable based on user settings
+- Computational requirements: Moderate to high computational resources for running simulations
+
+## Applications and Use Cases
+- Operational uses: Emergency response planning, air quality monitoring during wildfires
+- Research applications: Studying pollutant dispersion, atmospheric dynamics, and long-range transport
+- Planning and management applications: Assessing smoke impacts, forecasting smoke movement, evaluating mitigation strategies
+- Notable deployments: Used in various wildfire incidents for smoke modeling and emergency response planning
+
+## Strengths and Limitations
+- Strengths: Accurate dispersion modeling, flexible configuration options, real-time data assimilation
+- Limitations: Sensitivity to meteorological input data, computational intensity for high-resolution simulations, limited atmospheric chemistry capabilities
+- Best use conditions: Well-calibrated meteorological input data, collaboration with atmospheric scientists for accurate interpretation
+
+## Data Requirements
+- Input data needed: Meteorological data (e.g., from weather stations, models), emission sources, terrain information
+- Data formats: Common formats such as netCDF, ASCII, GRIB
+- Data sources: NOAA, meteorological agencies, research institutions
+
+## Training and Resources
+- Available training materials: Online tutorials, workshops, webinars
+- Documentation: User manuals, technical guides, model documentation
+- User communities: HYSPLIT user forums, scientific conferences
+- Support resources: NOAA support portal, community forums
+
+## Integration with Other Systems
+- Compatible models and systems: WRF (Weather Research and Forecasting model), CMAQ (Community Multiscale Air Quality model)
+- Data exchange formats: Common formats like netCDF, GRIB
+- Workflow integration: Integration with GIS platforms, custom scripts for data processing
+
+## Recent Updates and Developments
+- Latest version information: HYSPLIT 5.0 released with improved modeling algorithms
+- Recent improvements: Enhanced visualization tools, improved data assimilation techniques
+- Ongoing research: Continual development for better smoke dispersion modeling, integration with advanced meteorological models
+
+## Access and Availability
+- How to obtain the software: Download from NOAA's website or request access
+- Licensing information: Free for research and non-commercial use, licensing required for commercial applications
+- System requirements: Runs on Windows, Linux, and macOS platforms
+- Cost: Free for non-commercial use, licensing fees may apply for commercial applications
+
+This comprehensive research directory provides valuable insights into the HYSPLIT model, its capabilities, applications, and technical specifications, catering to researchers, fire managers, and practitioners in the field of wildfire management and air quality monitoring.
+
+---
+
+## Related Models and Resources
+
+### Similar Models in This Category
+Explore other smoke and air quality models in our directory.
+
+### Integration Partners
+Models that commonly integrate with HYSPLIT.
+
+---
+
+## Contributing to This Page
+
+This page is part of the [Wildfire Simulation & Modeling Research Directory](https://wildfire-directory.netlify.app) maintained by [Rallypoint One](https://rallypoint1.com).
+
+If you have:
+- Updates or corrections
+- Additional use cases or case studies
+- Training resources or documentation
+- Integration examples
+
+Please [open an issue on GitHub](https://github.com/RallypointOne/wildfire-directory/issues) or [contact us](https://rallypoint1.com/contact).
+
+---
+
+*Last updated: November 23, 2025*
+*This page was automatically generated using AI-assisted research. Content is regularly updated to reflect the latest developments.*

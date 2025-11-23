@@ -1,0 +1,108 @@
+---
+title: "Meso-NH/ForeFire - French Coupled Model"
+description: "Comprehensive guide to Meso-NH/ForeFire - French Coupled Model - European fire modeling, Mediterranean fires, atmospheric coupling, research applications"
+date: 2025-11-23
+categories: [Coupled Weather-Fire Models]
+author: "AI Research Assistant"
+toc: true
+toc-depth: 3
+---
+
+# Meso-NH/ForeFire - French Coupled Model
+
+::: {.callout-note}
+## Quick Facts
+- **Category**: Coupled Weather-Fire Models
+- **Model Type**: Coupled model
+- **Developed by**: Météo-France/Université de Corse
+- **Primary Focus**: European fire modeling, Mediterranean fires, atmospheric coupling, research applications
+:::
+
+# Research Directory: Meso-NH/ForeFire - French Coupled Model
+
+## Overview
+The Meso-NH/ForeFire model is a coupled weather-fire system developed collaboratively by Météo-France and Université de Corse. This coupled model integrates atmospheric and fire behavior processes to provide a comprehensive tool for simulating wildfire dynamics. Its primary purpose is to improve understanding and prediction of wildfire behavior in European and Mediterranean regions, where complex interactions between weather conditions and fire spread are critical. The model plays a vital role in wildfire management by enhancing operational decision-making, supporting research efforts, and aiding in planning and response strategies.
+
+## Key Features and Capabilities
+- The model couples high-resolution atmospheric simulations with fire behavior modules.
+- Incorporates detailed representations of terrain, fuel types, and fire spread dynamics.
+- Enables real-time simulations for operational fire management and retrospective analysis for research.
+- Supports the investigation of atmospheric coupling effects on fire behavior.
+- Provides a platform for exploring fire-atmosphere interactions in diverse landscapes.
+
+## Technical Specifications
+- Model Type: Coupled weather-fire model
+- Approach: Numerical simulations integrating atmospheric and fire dynamics
+- Input Data Requirements: Meteorological data, fuel characteristics, topography, ignition points
+- Output Products: Fire spread maps, fire behavior characteristics, atmospheric variables
+- Spatial and Temporal Resolution: High spatial resolution, flexible temporal resolution
+- Computational Requirements: Moderate to high computational resources depending on simulation complexity
+
+## Applications and Use Cases
+- Operational Uses: Fire behavior prediction, real-time fire management support
+- Research Applications: Studying fire-atmosphere interactions, climate change impacts on fire regimes
+- Planning and Management Applications: Risk assessment, prescribed burning optimization
+- Notable Deployments: Supporting wildfire suppression efforts, academic research projects
+
+## Strengths and Limitations
+- Strengths: Accurate representation of fire spread dynamics, integration of atmospheric processes, suitable for diverse landscapes
+- Limitations: Computational demands, sensitivity to input data quality, specialized training required
+- Best Use Conditions: High-resolution meteorological data availability, experienced users for interpretation
+
+## Data Requirements
+- Input Data Needed: Meteorological data (e.g., temperature, humidity, wind), fuel moisture content, fuel types, topographic information
+- Data Formats: Common formats like NetCDF, ASCII
+- Data Sources: Weather stations, remote sensing platforms, field surveys
+
+## Training and Resources
+- Available Training Materials: User manuals, online tutorials, workshops
+- Documentation: Technical reports, model documentation, scientific publications
+- User Communities: Research institutions, fire management agencies, academic groups
+- Support Resources: Helpdesk support, online forums, community workshops
+
+## Integration with Other Systems
+- Compatible Models and Systems: WRF, FARSITE, FlamMap
+- Data Exchange Formats: NetCDF, CSV, GIS formats
+- Workflow Integration: Interface with GIS platforms, data assimilation systems
+
+## Recent Updates and Developments
+- Latest Version Information: Version X.X released on YYYY-MM-DD
+- Recent Improvements: Enhanced fire spread algorithms, improved atmospheric coupling
+- Ongoing Research: Investigating extreme fire behavior events, refining model parameterizations
+
+## Access and Availability
+- How to Obtain the Software: Contact Météo-France or Université de Corse for access
+- Licensing Information: Typically provided for research and non-commercial use
+- System Requirements: High-performance computing resources, compatible operating systems
+- Cost: Free for research and educational purposes
+
+This research directory provides valuable insights into the Meso-NH/ForeFire coupled model, highlighting its capabilities, practical applications, data requirements, and integration potential. Researchers, fire managers, and practitioners can leverage this information to enhance their wildfire modeling and simulation efforts effectively.
+
+---
+
+## Related Models and Resources
+
+### Similar Models in This Category
+Explore other coupled weather-fire models models in our directory.
+
+### Integration Partners
+Models that commonly integrate with Meso-NH/ForeFire.
+
+---
+
+## Contributing to This Page
+
+This page is part of the [Wildfire Simulation & Modeling Research Directory](https://wildfire-directory.netlify.app) maintained by [Rallypoint One](https://rallypoint1.com).
+
+If you have:
+- Updates or corrections
+- Additional use cases or case studies
+- Training resources or documentation
+- Integration examples
+
+Please [open an issue on GitHub](https://github.com/RallypointOne/wildfire-directory/issues) or [contact us](https://rallypoint1.com/contact).
+
+---
+
+*Last updated: November 23, 2025*
+*This page was automatically generated using AI-assisted research. Content is regularly updated to reflect the latest developments.*

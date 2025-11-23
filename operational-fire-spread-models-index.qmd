@@ -1,0 +1,99 @@
+---
+title: "Operational Fire Spread Models"
+description: "Complete listing of operational fire spread models for wildfire research and operations"
+date: 2025-11-23
+toc: true
+---
+
+# Operational Fire Spread Models
+
+This section contains detailed information about 9 operational fire spread models used in wildfire research and operations.
+
+## Models in This Category
+
+
+### [FARSITE - Fire Area Simulator](farsite.qmd)
+**Organization**: USDA Forest Service  
+**Type**: Semi-empirical  
+**Focus**: spatially explicit fire growth simulation, multiple fuel models, weather integration, suppression tactics modeling
+
+---
+
+### [FlamMap - Fire Behavior Mapping and Analysis](flammap.qmd)
+**Organization**: USDA Forest Service  
+**Type**: Semi-empirical  
+**Focus**: potential fire behavior calculations, minimum travel time, treatment optimization, landscape-scale analysis
+
+---
+
+### [BehavePlus Fire Modeling System](behaveplus.qmd)
+**Organization**: USDA Forest Service  
+**Type**: Semi-empirical  
+**Focus**: surface fire spread, crown fire, spotting distance, fire effects, safety zone calculations
+
+---
+
+### [FSPro - Fire Spread Probability](fspro.qmd)
+**Organization**: USDA Forest Service  
+**Type**: Probabilistic  
+**Focus**: probabilistic fire spread modeling, risk assessment, decision support for large fires
+
+---
+
+### [Prometheus - Canadian Fire Growth Model](prometheus.qmd)
+**Organization**: Canadian Forest Service  
+**Type**: Semi-empirical  
+**Focus**: elliptical fire growth, Canadian fuel types, operational use, deterministic spread
+
+---
+
+### [Phoenix RapidFire](phoenix-rapidfire.qmd)
+**Organization**: University of Melbourne/Bushfire CRC  
+**Type**: Semi-empirical  
+**Focus**: Australian conditions, eucalyptus forests, ember transport, operational forecasting
+
+---
+
+### [Spark - Wildfire Simulation Toolkit](spark.qmd)
+**Organization**: CSIRO  
+**Type**: Semi-empirical  
+**Focus**: GPU-accelerated, ensemble simulations, operational forecasting, Australian fuels
+
+---
+
+### [AUSTRALIS - Australian Fire Spread Simulator](australis.qmd)
+**Organization**: CSIRO  
+**Type**: Semi-empirical  
+**Focus**: grassland fires, prescribed burning, Australian ecosystems, operational planning
+
+---
+
+### [FIRESITE - European Fire Simulation](firesite.qmd)
+**Organization**: European Forest Institute  
+**Type**: Semi-empirical  
+**Focus**: Mediterranean fires, European fuel models, multi-scale modeling, decision support
+
+---
+
+
+## Category Overview
+
+The Operational Fire Spread Models category includes models and systems that focus on specific aspects of wildfire behavior, management, and analysis. These tools are essential for:
+
+- Operational decision-making
+- Research and development
+- Planning and risk assessment
+- Training and education
+
+## Choosing the Right Model
+
+When selecting a model from this category, consider:
+- Your specific use case and objectives
+- Available data and computational resources
+- Required spatial and temporal resolution
+- Integration with existing workflows
+- Training and support availability
+
+---
+
+*Part of the [Wildfire Research Directory](https://wildfire-directory.netlify.app) by [Rallypoint One](https://rallypoint1.com)*
