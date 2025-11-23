@@ -1,10 +1,10 @@
 import os
 import json
-from datetime import datetime
-import openai
+from datetime import datetime, timedelta
+from openai import OpenAI
 
-# Configure OpenAI
-openai.api_key = os.environ.get('OPENAI_API_KEY')
+# Initialize OpenAI client
+client = OpenAI(api_key=os.environ.get('OPENAI_API_KEY'))
 
 # Topics to generate content for
 TOPICS = [
@@ -64,7 +64,7 @@ def generate_page_content(topic_info):
     """
     
     try:
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": "You are an expert in wildfire modeling and simulation research."},
@@ -116,6 +116,11 @@ def main():
     print("🔥 Starting Wildfire Research Content Generation...")
     print(f"📚 Generating {len(TOPICS)} topic pages...")
     
+    # Check if API key exists
+    if not os.environ.get('OPENAI_API_KEY'):
+        print("❌ ERROR: OPENAI_API_KEY not found in environment variables!")
+        return 0
+    
     generated_files = []
     
     for topic in TOPICS:
@@ -151,3 +156,38 @@ def main():
         print("\n⚠️ No files were generated. Check your OpenAI API key.")
     
     return len(generated_files)
+
+def update_index_page(topics, generated_files):
+    """Add links to the new content on the homepage"""
+    
+    new_links = "\n## AI-Generated Research Topics\n\n"
+    new_links += "Explore our comprehensive research pages:\n\n"
+    
+    for topic in topics:
+        if topic['filename'] in generated_files:
+            title = topic['title']
+            filename = topic['filename']
+            new_links += f"- [{title}]({filename}) - {topic['category']}\n"
+    
+    # Read current index
+    try:
+        with open('index.qmd', 'r') as f:
+            current_content = f.read()
+    except FileNotFoundError:
+        print("❌ index.qmd not found")
+        return
+    
+    # Add new section before the last divider
+    if "## AI-Generated Research Topics" not in current_content:
+        # Find where to insert (before "Quick Links")
+        insert_pos = current_content.find("## Quick Links")
+        if insert_pos > 0:
+            new_content = current_content[:insert_pos] + new_links + "\n" + current_content[insert_pos:]
+            
+            with open('index.qmd', 'w') as f:
+                f.write(new_content)
+            print("✅ Updated index.qmd with new content links")
+
+if __name__ == "__main__":
+    result = main()
+    exit(0 if result > 0 else 1)
