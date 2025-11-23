@@ -1,0 +1,24 @@
+
+## 📚 Essential Topics
+
+Our directory now includes comprehensive guides on critical wildfire topics:
+
+### Fire Danger and Risk
+- [Fire Weather Indices (FWI, FFDI)](fire-weather-indices.qmd)
+- [WUI Risk Modeling](wui-modeling.qmd)
+- [Insurance Risk Assessment](insurance-risk-tools.qmd)
+
+### Detection and Assessment
+- [Satellite Fire Detection](satellite-fire-detection.qmd)
+- [Burn Severity Mapping](burn-severity-mapping.qmd)
+- [Debris Flow Prediction](debris-flow-prediction.qmd)
+
+### Climate and Environment
+- [Climate Change Projections](climate-fire-projections.qmd)
+- [Carbon Emissions Modeling](carbon-emissions-modeling.qmd)
+
+### Management Approaches
+- [Indigenous Fire Management](indigenous-fire-management.qmd)
+- [FARSITE Complete Guide](farsite-system.qmd)
+
+[View All Essential Topics](essential-topics-index.qmd)

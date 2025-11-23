@@ -1,0 +1,54 @@
+---
+title: "Essential Wildfire Topics"
+description: "Comprehensive guides to key wildfire science and management topics"
+date: 2025-11-23
+toc: true
+---
+
+# Essential Wildfire Topics
+
+Beyond individual models and systems, these comprehensive guides cover critical topics in wildfire science, management, and risk assessment.
+
+## Topics by Category
+
+### 🔥 Fire Danger and Weather
+- [Fire Weather Indices (FWI, FFDI, and Global Systems)](fire-weather-indices.qmd)
+- [Climate Change and Future Fire Projections](climate-fire-projections.qmd)
+
+### 🛰️ Detection and Monitoring
+- [Satellite Fire Detection and Monitoring Systems](satellite-fire-detection.qmd)
+- [Burn Severity Mapping and Assessment](burn-severity-mapping.qmd)
+
+### 🏘️ Risk Assessment
+- [Wildland-Urban Interface (WUI) Modeling and Risk](wui-modeling.qmd)
+- [Insurance Industry Wildfire Risk Assessment Tools](insurance-risk-tools.qmd)
+- [Post-Fire Debris Flow Prediction and Risk](debris-flow-prediction.qmd)
+
+### 🌍 Environmental Impacts
+- [Wildfire Carbon Emissions and Climate Impacts](carbon-emissions-modeling.qmd)
+
+### 📚 Management Approaches
+- [Indigenous Fire Management and Cultural Burning](indigenous-fire-management.qmd)
+- [FARSITE Fire Simulation System - Complete Guide](farsite-system.qmd)
+
+## Why These Topics Matter
+
+These topics represent critical areas of wildfire science and management that:
+- Bridge multiple modeling approaches
+- Address emerging challenges
+- Support decision-making at all levels
+- Integrate traditional and modern knowledge
+- Enable comprehensive risk assessment
+
+## How to Use These Guides
+
+Each topic page provides:
+1. **Comprehensive Overview** - Current state of knowledge
+2. **Practical Applications** - Real-world implementation
+3. **Tools and Resources** - Specific software and datasets
+4. **Case Studies** - Documented examples
+5. **Future Directions** - Emerging research and needs
+
+---
+
+*Part of the [Wildfire Research Directory](https://wildfire-directory.netlify.app) by [Rallypoint One](https://rallypoint1.com)*
