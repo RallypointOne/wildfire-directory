@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Wildfire Simulation & Modeling Research Directory"
+  description: "Comprehensive resource for wildfire research - Powered by Rallypoint One"
+  site-url: "https://wildfire-directory.netlify.app"
+  navbar:
+    background: "#D2691E"
+    foreground: "white"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Fire Models"
+        href: models.qmd
+      - text: "About"
+        href: about.qmd
+    right:
+      - text: "Rallypoint One"
+        href: "https://rallypoint1.com"
+      - icon: github
+        href: "https://github.com/RallypointOne/wildfire-directory"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+
+execute:
+  freeze: auto
