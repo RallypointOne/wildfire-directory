@@ -1,66 +1,146 @@
 ---
 title: "Wildfire Research Directory"
-subtitle: "AI-Curated Resource for Wildfire Simulation & Modeling"
+subtitle: "Comprehensive Resource for Wildfire Simulation & Modeling - Based on NSF ASCEND Engine Research"
 page-layout: full
 ---
 
-## Welcome
+## Welcome to the Wildfire Research Directory
 
-This directory provides comprehensive, up-to-date information on wildfire simulation and modeling research. Content is automatically updated using AI to ensure you have access to the latest developments in the field.
+This comprehensive directory provides detailed documentation on **30+ wildfire models and systems** identified in the NSF ASCEND Engine wildfire modeling assessment. Content is AI-curated and continuously updated to reflect the latest developments in wildfire research.
 
-## Featured Topics
+## 🔥 Featured Model Categories
 
-### 🔥 Fire Behavior Models
-- Physical fire spread models
-- Statistical approaches
-- Machine learning applications
-- Real-time simulation systems
+### [Operational Fire Spread Models](operational-fire-spread-models-index.qmd)
+*Core models used in fire management operations*
 
-### 🌍 Atmospheric Modeling  
-- Weather-fire interactions
-- Smoke dispersion models
-- Climate change impacts
-- WRF-Fire coupling
+**Key Models:**
+- **[FARSITE](farsite.qmd)** - Fire Area Simulator for complex fire growth
+- **[FlamMap](flammap.qmd)** - Landscape-scale fire behavior mapping
+- **[BehavePlus](behaveplus.qmd)** - Surface and crown fire calculations
+- **[Phoenix RapidFire](phoenix-rapidfire.qmd)** - Australian operational system
 
-### 💧 Fuel Moisture Dynamics
-- Live fuel moisture content
-- Dead fuel moisture models
-- Remote sensing applications
-- Prediction systems
+### [Physics-Based Models](physics-based-models-index.qmd)
+*Advanced computational models using detailed physics*
 
-### 📊 Risk Assessment Tools
-- Evacuation planning
-- Infrastructure vulnerability
-- Economic impact models
-- Decision support systems
+**Key Models:**
+- **[FIRETEC](firetec.qmd)** - Los Alamos CFD model
+- **[WFDS](wfds.qmd)** - NIST Wildland-Urban Interface simulator
+- **[QUIC-Fire](quic-fire.qmd)** - Fast GPU-accelerated physics model
 
-## Latest Research Updates
+### [Coupled Weather-Fire Models](coupled-weather-fire-models-index.qmd)
+*Models integrating atmospheric and fire dynamics*
 
-*This section will be automatically updated daily with new research findings*
+**Key Models:**
+- **[WRF-SFIRE](wrf-sfire.qmd)** - Two-way coupled atmosphere-fire model
+- **[ARPS-CANOPY](arps-canopy.qmd)** - Advanced regional prediction system
+- **[Meso-NH/ForeFire](meso-nh-forefire.qmd)** - European coupled model
 
-- Coming soon: AI-powered research summaries
-- Coming soon: Latest papers from arXiv and research databases
-- Coming soon: Tool and dataset updates
+### [Decision Support Systems](decision-support-systems-index.qmd)
+*Integrated platforms for fire management decisions*
 
+**Key Systems:**
+- **[WFDSS](wfdss.qmd)** - Wildland Fire Decision Support System
+- **[IFTDSS](iftdss.qmd)** - Interagency Fuel Treatment Decision Support
+- **[Wildfire Analyst](wildfire-analyst.qmd)** - Commercial web-based platform
 
-## AI-Generated Research Topics
+### [Smoke and Air Quality Models](smoke-and-air-quality-index.qmd)
+*Models for smoke dispersion and impacts*
 
-Explore our comprehensive research pages:
+**Key Models:**
+- **[BlueSky](bluesky.qmd)** - Smoke modeling framework
+- **[HYSPLIT](hysplit.qmd)** - NOAA atmospheric transport model
+- **[CMAQ](cmaq-smoke.qmd)** - EPA air quality model
 
-- [WRF-Fire Model](wrf-fire.qmd) - Coupled Fire-Atmosphere Models
-- [Machine Learning in Fire Prediction](machine-learning.qmd) - AI/ML Applications
-- [Fuel Moisture Content Modeling](fuel-moisture.qmd) - Fuel Dynamics
-- [Smoke Dispersion and Air Quality](smoke-modeling.qmd) - Atmospheric Effects
-- [Evacuation Planning and Simulation](evacuation.qmd) - Emergency Management
+## 🌍 Regional Model Collections
 
-## Quick Links
+### North America
+- **United States**: FARSITE, FlamMap, BehavePlus, WFDSS, FSPro
+- **Canada**: [CFFDRS](cffdrs.qmd), [Prometheus](prometheus.qmd), [Burn-P3](burn-p3.qmd)
 
-- [Fire Models Overview](models.qmd)
-- [NSF ASCEND Engine Resources](https://example.com)
-- [Contact Rallypoint One](https://rallypoint1.com/contact)
+### International
+- **Australia**: [Phoenix RapidFire](phoenix-rapidfire.qmd), [Spark](spark.qmd), [AUSTRALIS](australis.qmd)
+- **Europe**: [FIRESITE](firesite.qmd), [TIGER](tiger.qmd), Meso-NH/ForeFire
+
+## 📊 Model Selection Guide
+
+| Use Case | Recommended Models |
+|----------|-------------------|
+| **Real-time Operations** | FARSITE, FlamMap, Phoenix RapidFire |
+| **Research & Development** | FIRETEC, WFDS, WRF-SFIRE |
+| **Risk Assessment** | FSPro, Burn-P3, FlamMap |
+| **Smoke Forecasting** | BlueSky, HYSPLIT, WRF-SFIRE |
+| **Fuel Treatment Planning** | IFTDSS, FlamMap, LANDFIRE |
+| **WUI Protection** | WFDS, QUIC-Fire, Wildfire Analyst |
+
+## 🚀 Quick Links
+
+### Essential Resources
+- [Fire Weather Systems](fire-danger-rating-systems-index.qmd)
+- [Fuel and Vegetation Data](fuel-and-vegetation-data-index.qmd)
+- [Machine Learning Applications](ai-ml-applications-index.qmd)
+- [Probabilistic Models](probabilistic-models-index.qmd)
+
+### Data Systems
+- **[LANDFIRE](landfire.qmd)** - National fuel and vegetation mapping
+- **[FuelCast](fuelcast.qmd)** - Live fuel moisture prediction
+- **[CFFDRS](cffdrs.qmd)** - Canadian fire danger rating
+
+## 💡 Latest Additions
+
+Our AI system continuously updates this directory with:
+- New model releases and versions
+- Recent research publications
+- Case studies and applications
+- Integration capabilities
+- Training resources
+
+## 🤝 Contributing
+
+This directory is maintained by [Rallypoint One](https://rallypoint1.com) as part of our commitment to advancing wildfire research and supporting the NSF ASCEND Engine initiative.
+
+### How to Contribute:
+- Report errors or suggest updates via [GitHub Issues](https://github.com/RallypointOne/wildfire-directory/issues)
+- Submit case studies or use cases
+- Share training materials or documentation
+- Propose new models for inclusion
+
+## 🎯 Target Audiences
+
+This directory serves:
+- **Fire Managers** - Operational model selection and application
+- **Researchers** - Comprehensive model documentation and comparisons
+- **Policy Makers** - Understanding modeling capabilities and limitations
+- **Technology Companies** - Integration opportunities and partnerships
+- **Emergency Planners** - Risk assessment and evacuation planning tools
+
+## 📈 Directory Statistics
+
+- **30+ Models Documented** - Comprehensive coverage of major systems
+- **10 Categories** - Organized by application and approach
+- **4 Geographic Regions** - Global coverage of modeling approaches
+- **Daily Updates** - AI-powered content refresh
+- **Open Source** - Community-driven improvements
 
 ---
 
-*This directory is maintained by [Rallypoint One](https://rallypoint1.com) as part of our commitment to advancing wildfire research and mitigation.*
+## About Rallypoint One
 
-*Last updated: {{{< meta date >}}}*
+[Rallypoint One](https://rallypoint1.com) specializes in wildfire modeling and simulation consulting, supporting federal agencies, state governments, utilities, and insurance companies in understanding and mitigating wildfire risks.
+
+### Our Services:
+- Model selection and implementation
+- Custom simulation development
+- Risk assessment and analysis
+- Training and capacity building
+- Technology integration
+
+### Contact Us:
+- **Website**: [rallypoint1.com](https://rallypoint1.com)
+- **Email**: [Contact Form](https://rallypoint1.com/contact)
+- **GitHub**: [RallypointOne](https://github.com/RallypointOne)
+
+---
+
+*This directory is powered by AI-assisted research and is continuously updated.*
+
+*Part of the NSF ASCEND Engine Wildfire Research Initiative*
