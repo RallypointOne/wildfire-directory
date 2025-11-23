@@ -1,0 +1,55 @@
+---
+title: "Wildfire Research Directory"
+subtitle: "AI-Curated Resource for Wildfire Simulation & Modeling"
+page-layout: full
+---
+
+## Welcome
+
+This directory provides comprehensive, up-to-date information on wildfire simulation and modeling research. Content is automatically updated using AI to ensure you have access to the latest developments in the field.
+
+## Featured Topics
+
+### 🔥 Fire Behavior Models
+- Physical fire spread models
+- Statistical approaches
+- Machine learning applications
+- Real-time simulation systems
+
+### 🌍 Atmospheric Modeling  
+- Weather-fire interactions
+- Smoke dispersion models
+- Climate change impacts
+- WRF-Fire coupling
+
+### 💧 Fuel Moisture Dynamics
+- Live fuel moisture content
+- Dead fuel moisture models
+- Remote sensing applications
+- Prediction systems
+
+### 📊 Risk Assessment Tools
+- Evacuation planning
+- Infrastructure vulnerability
+- Economic impact models
+- Decision support systems
+
+## Latest Research Updates
+
+*This section will be automatically updated daily with new research findings*
+
+- Coming soon: AI-powered research summaries
+- Coming soon: Latest papers from arXiv and research databases
+- Coming soon: Tool and dataset updates
+
+## Quick Links
+
+- [Fire Models Overview](models.qmd)
+- [NSF ASCEND Engine Resources](https://example.com)
+- [Contact Rallypoint One](https://rallypoint1.com/contact)
+
+---
+
+*This directory is maintained by [Rallypoint One](https://rallypoint1.com) as part of our commitment to advancing wildfire research and mitigation.*
+
+*Last updated: {{{< meta date >}}}*
