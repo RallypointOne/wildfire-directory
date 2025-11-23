@@ -42,6 +42,17 @@ This directory provides comprehensive, up-to-date information on wildfire simula
 - Coming soon: Latest papers from arXiv and research databases
 - Coming soon: Tool and dataset updates
 
+
+## AI-Generated Research Topics
+
+Explore our comprehensive research pages:
+
+- [WRF-Fire Model](wrf-fire.qmd) - Coupled Fire-Atmosphere Models
+- [Machine Learning in Fire Prediction](machine-learning.qmd) - AI/ML Applications
+- [Fuel Moisture Content Modeling](fuel-moisture.qmd) - Fuel Dynamics
+- [Smoke Dispersion and Air Quality](smoke-modeling.qmd) - Atmospheric Effects
+- [Evacuation Planning and Simulation](evacuation.qmd) - Emergency Management
+
 ## Quick Links
 
 - [Fire Models Overview](models.qmd)
